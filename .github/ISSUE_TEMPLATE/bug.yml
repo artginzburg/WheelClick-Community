@@ -1,0 +1,31 @@
+name: Bug report
+description: Something WheelClick does wrong
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: e.g. 15.6
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Which Mac
+      description: Trackpad behavior differs more between models than it has any right to.
+      placeholder: e.g. MacBook Air M2, or Magic Mouse on a Mac mini
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: WheelClick version
+      description: Menu bar icon → About. Also say whether it's the App Store or the direct build, if you know.
+      placeholder: e.g. 1.1.4 (direct)

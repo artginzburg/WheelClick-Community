@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature request or idea
+    url: https://github.com/artginzburg/WheelClick-Community/discussions/new?category=ideas
+    about: Gestures and features you wish existed live in Discussions, so an open issue always means something is wrong.
+  - name: Question
+    url: https://github.com/artginzburg/WheelClick-Community/discussions/new?category=q-a
+    about: Anything you're trying to figure out.

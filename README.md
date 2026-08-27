@@ -34,6 +34,12 @@ WheelClick's source is closed, so **there is no app code in this repository**. W
 - **Discussions** — the gestures you wish existed, and anything you're trying to work out.
 - **Localizations**, once there are any to keep.
 
+## Closed app, open parts
+
+When a piece of WheelClick turns out to be useful beyond WheelClick, it gets extracted and open-sourced instead of staying buried in the app:
+
+- **[Tiptoe](https://github.com/artginzburg/Tiptoe)** — the Swift package WheelClick updates itself through. It holds an update until the Mac is quiet, then installs it with no UI — over Sparkle or GitHub Releases. MIT, ready for your app too.
+
 ## Something broken, or missing?
 
 **Broken** — [open an issue](https://github.com/artginzburg/WheelClick-Community/issues/new). Please say which macOS version and which Mac; trackpad behaviour differs more between models than it has any right to.

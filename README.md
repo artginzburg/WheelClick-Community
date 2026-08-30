@@ -39,6 +39,7 @@ WheelClick's source is closed, so **there is no app code in this repository**. W
 When a piece of WheelClick turns out to be useful beyond WheelClick, it gets extracted and open-sourced instead of staying buried in the app:
 
 - **[Tiptoe](https://github.com/artginzburg/Tiptoe)** — the Swift package WheelClick updates itself through. It holds an update until the Mac is quiet, then installs it with no UI — over Sparkle or GitHub Releases. MIT, ready for your app too.
+- **[`perf/`](perf)** — the energy harness. Every figure on [the energy rating page](https://wheelclick.app/learn/software-energy-efficiency-rating/?ref=community-readme) came out of these scripts, and they are here so that a number you are asked to believe can be checked against the thing that produced it. The harness is welded to the app's own source, so it is something to read rather than to run on your own app — [`perf/README.md`](perf/README.md) is the method in full.
 
 ## Something broken, or missing?
 

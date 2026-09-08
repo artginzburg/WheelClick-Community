@@ -23,7 +23,7 @@ brew install artginzburg/tap/wheelclick
 
 Or [download the .dmg](https://github.com/artginzburg/WheelClick-Community/releases/latest/download/WheelClick.dmg) — notarized, signed, and the same build.
 
-Three-finger click and three-finger tap are **free forever**, with no account and no countdown. A licence unlocks what WheelClick adds on top: fn+click, Force Click, the Magic Mouse gestures, middle-drag for CAD, autoscroll and per-app rules.
+Three-finger click and three-finger tap are **free forever**, with no account and no countdown. A license unlocks what WheelClick adds on top: fn+click, Force Click, the Magic Mouse gestures, middle-drag for CAD, autoscroll and per-app rules.
 
 ## What's here — and what isn't
 
@@ -43,7 +43,45 @@ When a piece of WheelClick turns out to be useful beyond WheelClick, it gets ext
 
 ## Something broken, or missing?
 
-**Broken** — [open an issue](https://github.com/artginzburg/WheelClick-Community/issues/new). Please say which macOS version and which Mac; trackpad behaviour differs more between models than it has any right to.
+**Broken** — [open an issue](https://github.com/artginzburg/WheelClick-Community/issues/new). Please say which macOS version and which Mac; trackpad behavior differs more between models than it has any right to. If the app crashed, or misbehaves in a way that is hard to describe, the two attachments below turn a report into something fixable.
+
+<details>
+<summary><b>If the app crashed</b> — attach the crash reports</summary>
+
+macOS already wrote one for every crash. Paste this into Terminal: it collects the ten most recent crash reports from WheelClick and its touch helper, zips them (GitHub does not accept a bare `.ips`) and opens Finder with the zip already selected, ready to drag into the issue.
+
+```sh
+rm -f ~/Desktop/wheelclick-crashes.zip
+find ~/Library/Logs/DiagnosticReports -maxdepth 2 -name 'WheelClick*.ips' -print0 2>/dev/null | xargs -0 ls -t 2>/dev/null | head -10 | tr '\n' '\0' | xargs -0 zip -qj ~/Desktop/wheelclick-crashes.zip 2>/dev/null
+[ -f ~/Desktop/wheelclick-crashes.zip ] && open -R ~/Desktop/wheelclick-crashes.zip || echo "No WheelClick crash report on this Mac."
+```
+
+Each report is plain text naming the exact line the app died on, which is usually the whole fix. Several of them are better than one: a crash that repeats looks different from a crash that happened once, and the app and its helper write separate reports when they go down together.
+
+</details>
+
+<details>
+<summary><b>If it misbehaves without crashing</b> — attach a log</summary>
+
+The app's own log is never written to disk, so it has to be captured live. Paste this whole block into Terminal at once: it starts recording, gives you a minute to reproduce the problem, then stops and opens Finder with the file selected.
+
+```sh
+/usr/bin/log stream --level debug --predicate 'subsystem BEGINSWITH "art.ginzburg.WheelClick"' > ~/Desktop/wheelclick-log.txt &
+echo "Reproduce the problem now — recording for 60 seconds…"
+sleep 60
+kill $!
+open -R ~/Desktop/wheelclick-log.txt
+```
+
+Drag `wheelclick-log.txt` from the Finder window into the issue. It contains only WheelClick's own lines: which gesture was recognized, on which device, and what it did. No keystrokes, no window titles, no text you typed.
+
+</details>
+
+Also useful, in any report:
+
+```sh
+sw_vers && defaults read /Applications/WheelClick.app/Contents/Info CFBundleShortVersionString
+```
 
 **Missing** — [start a discussion](https://github.com/artginzburg/WheelClick-Community/discussions/new/choose): *Ideas* for a gesture or a feature you want, *Q&A* for anything you're trying to figure out. Requests live there rather than in Issues so that an open issue always means something is actually wrong.
 

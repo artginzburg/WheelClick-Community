@@ -28,7 +28,17 @@ public struct ContentView: View {
             case .done:
                 VStack(spacing: 14) {
                     Text("Done. WheelClick is activated.")
+                    Button("Move Upgrader to Trash") { flow.cleanUp() }
                     Button("Quit") { NSApp.terminate(nil) }
+                }
+            case .cleanedUp(let leftover):
+                VStack(spacing: 14) {
+                    if leftover.isEmpty {
+                        Text("Done. You can close this window.")
+                    } else {
+                        Text("Done, but couldn't remove:\n\(leftover.joined(separator: "\n"))\nYou can delete them yourself.")
+                            .multilineTextAlignment(.center)
+                    }
                 }
             case .alreadyDirect:
                 Text("You already have the direct version.")

@@ -135,6 +135,35 @@ public func activate(key: String) {
     NSWorkspace.shared.open(components.url!)
 }
 
+/// What a successful run should offer to clean up: the running app bundle itself, and any
+/// `WheelClick-Upgrader*.zip` sitting in Downloads (the browser may have numbered it, e.g.
+/// `WheelClick-Upgrader-2.zip`). Only these two locations are ever touched.
+public func cleanupTargets(bundle: URL, downloads: URL, fileManager: FileManager = .default) -> [URL] {
+    var targets = [bundle]
+    let entries = (try? fileManager.contentsOfDirectory(at: downloads, includingPropertiesForKeys: nil)) ?? []
+    for entry in entries {
+        let name = entry.lastPathComponent
+        if name.hasPrefix("WheelClick-Upgrader") && name.hasSuffix(".zip") {
+            targets.append(entry)
+        }
+    }
+    return targets
+}
+
+/// Moves each URL to the Trash, returning the ones that failed (access refused, already gone, etc.).
+/// `NSWorkspace.recycle`'s completion handler is delivered on the main thread, so this awaits it
+/// with a continuation rather than blocking that thread on a semaphore, which would deadlock any
+/// caller running on the main actor (the only caller there is).
+public func moveToTrash(_ urls: [URL]) async -> [URL] {
+    guard !urls.isEmpty else { return [] }
+    return await withCheckedContinuation { continuation in
+        NSWorkspace.shared.recycle(urls) { newURLs, error in
+            let failed = (error != nil) ? urls : urls.filter { newURLs[$0] == nil }
+            continuation.resume(returning: failed)
+        }
+    }
+}
+
 private func run(_ tool: String, _ args: [String]) throws {
     let p = Process(); p.executableURL = URL(fileURLWithPath: tool); p.arguments = args
     p.standardOutput = FileHandle.nullDevice

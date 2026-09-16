@@ -1,9 +1,13 @@
 #!/bin/bash
 # Signs, packages, notarizes and staples WheelClick Upgrader: build-app.sh
 # produces an unsigned universal app, this script codesigns it Developer ID,
-# wraps it in a dmg, submits that dmg to Apple's notary service and staples
-# the ticket. It prints the dmg's sha256 and stops there — creating the
-# GitHub release stays the owner's, because that publishes.
+# zips it, submits that zip to Apple's notary service, staples the ticket to
+# the app (a zip cannot be stapled) and re-zips the stapled app. It prints
+# the final zip's sha256 and stops there — creating the GitHub release stays
+# the owner's, because that publishes.
+#
+# A one-shot tool should not be dragged into /Applications, so this ships a
+# zip of the .app rather than a dmg.
 #
 # Modelled on ~/Repos/PiPOSS/scripts/release.sh, with two differences forced
 # by the Upgrader being a Swift package rather than an Xcode project:
@@ -33,8 +37,7 @@ cd "$(dirname "$0")/.."
 export DEVELOPER_DIR="${DEVELOPER_DIR:-/Applications/Xcode.app/Contents/Developer}"
 
 BUILD=.build
-STAGING="$BUILD/dmg-staging"
-DMG="$BUILD/WheelClick-Upgrader.dmg"
+ZIP="$BUILD/WheelClick-Upgrader.zip"
 IDENTITY="Developer ID Application: Arthur Ginzburg (R2294BC6J8)"
 NOTARY_KEY="$HOME/.config/wheelclick/AuthKey_3HMH55VGJD.p8"
 NOTARY_KEY_ID=3HMH55VGJD
@@ -50,7 +53,7 @@ echo "▸ Unlocking the signing keychain…"
 cleanup() {
   "$SIGNING_KEYCHAIN" lock
   # The app this run built and did not install: withdraw its LaunchServices
-  # registration, then delete it. The dmg is kept.
+  # registration, then delete it. The zip is kept.
   if [[ -d "$APP" ]]; then
     "$LSREGISTER" -u "$APP" >/dev/null 2>&1 || true
     rm -rf "$APP"
@@ -82,20 +85,12 @@ if ! grep -qE "flags=0x[0-9a-f]*\(.*runtime" <<< "$DV_OUTPUT"; then
   exit 1
 fi
 
-echo "▸ Building dmg…"
-rm -rf "$STAGING"
-mkdir -p "$STAGING"
-cp -R "$APP" "$STAGING/"
-ln -s /Applications "$STAGING/Applications"
-rm -f "$DMG"
-hdiutil create -volname "WheelClick Upgrader" -srcfolder "$STAGING" -ov -format UDZO "$DMG"
-rm -rf "$STAGING"
-
-echo "▸ Signing the dmg…"
-codesign --force --keychain "$SIGNING_KEYCHAIN_DB" --sign "$IDENTITY" "$DMG"
+echo "▸ Zipping…"
+rm -f "$ZIP"
+ditto -c -k --keepParent "$APP" "$ZIP"
 
 echo "▸ Notarizing (waits for Apple)…"
-xcrun notarytool submit "$DMG" \
+xcrun notarytool submit "$ZIP" \
   --key "$NOTARY_KEY" --key-id "$NOTARY_KEY_ID" --issuer "$NOTARY_ISSUER" \
   --wait --output-format plist > "$BUILD/notarization.plist"
 NOTARY_STATUS=$(/usr/libexec/PlistBuddy -c "Print :status" "$BUILD/notarization.plist")
@@ -108,14 +103,18 @@ if [[ "$NOTARY_STATUS" != Accepted ]]; then
 fi
 
 echo "▸ Stapling…"
-xcrun stapler staple "$DMG"
+# A zip cannot carry a staple; the ticket goes on the .app inside it.
+xcrun stapler staple "$APP"
+xcrun stapler validate "$APP"
 
-# Read back from the file that will actually be downloaded. Stapling
-# rewrites the dmg, so a hash taken before it is the hash of something else.
+echo "▸ Re-zipping the stapled app…"
+rm -f "$ZIP"
+ditto -c -k --keepParent "$APP" "$ZIP"
+
+# Read back from the file that will actually be downloaded.
 # `spctl` is not used as evidence anywhere here: this Mac has assessments
 # disabled and prints `accepted` regardless.
-xcrun stapler validate "$DMG"
-SHA=$(shasum -a 256 "$DMG" | cut -d' ' -f1)
+SHA=$(shasum -a 256 "$ZIP" | cut -d' ' -f1)
 
 # Releases in this repo are immutable: a published asset can never be replaced, so every build
 # gets its own tag. wheelclick.app/download/upgrader redirects to the newest one (landing/vercel.json
@@ -127,7 +126,7 @@ cat <<SUMMARY
 
 ▸ Done. Notarized and stapled.
 
-    file      $PWD/$DMG
+    file      $PWD/$ZIP
     sha256    $SHA
 
 Still the owner's, because it publishes:
@@ -136,5 +135,5 @@ Still the owner's, because it publishes:
     --title "WheelClick Upgrader" \\
     --notes "Moves an App Store copy of WheelClick to the direct version, free. See https://wheelclick.app/upgrade" \\
     --latest=false \\
-    $DMG
+    $ZIP
 SUMMARY

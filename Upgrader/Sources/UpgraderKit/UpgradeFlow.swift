@@ -6,6 +6,7 @@ import SwiftUI
         case failed(message: String, key: String?)
         case canceled(key: String)
         case noPurchase
+        case cleanedUp(leftover: [String])
     }
     @Published public var phase: Phase
     @Published public var email = ""
@@ -48,6 +49,22 @@ import SwiftUI
     /// Download, replace and activate with a key already issued; never calls the server again.
     public func retryInstall(key: String) {
         Task { await install(key: key) }
+    }
+
+    /// An offer, never automatic: moves the running app and any downloaded copies of it to the
+    /// Trash, then quits. A bundle can be trashed while running, so the quit is scheduled right
+    /// after a short confirmation; leftovers (access refused, or anything else failing) are
+    /// reported plainly rather than treated as an error.
+    public func cleanUp() {
+        // Read everything from Bundle.main before the trash call: once the bundle is gone, nothing
+        // should touch it again.
+        let downloads = FileManager.default.urls(for: .downloadsDirectory, in: .userDomainMask).first
+        let targets = downloads.map { cleanupTargets(bundle: Bundle.main.bundleURL, downloads: $0) } ?? [Bundle.main.bundleURL]
+        Task {
+            let failed = await moveToTrash(targets)
+            phase = .cleanedUp(leftover: failed.map(\.path))
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) { NSApp.terminate(nil) }
+        }
     }
 
     private func install(key: String) async {

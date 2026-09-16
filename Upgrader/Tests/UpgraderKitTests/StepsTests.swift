@@ -96,6 +96,65 @@ final class PrivilegedScriptTests: XCTestCase {
     }
 }
 
+final class CleanupTargetsTests: XCTestCase {
+    private func makeDir() throws -> URL {
+        let dir = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString)
+        try FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
+        return dir
+    }
+
+    private func touch(_ url: URL) throws { try Data().write(to: url) }
+
+    func testAlwaysIncludesTheBundleItself() throws {
+        let downloads = try makeDir()
+        let bundle = URL(fileURLWithPath: "/somewhere/else/WheelClick Upgrader.app")
+        XCTAssertEqual(cleanupTargets(bundle: bundle, downloads: downloads), [bundle])
+    }
+
+    func testFindsAMatchingZipInDownloads() throws {
+        let downloads = try makeDir()
+        let zip = downloads.appendingPathComponent("WheelClick-Upgrader.zip")
+        try touch(zip)
+        let bundle = URL(fileURLWithPath: "/somewhere/else/WheelClick Upgrader.app")
+        XCTAssertEqual(Set(cleanupTargets(bundle: bundle, downloads: downloads).map(\.standardizedFileURL)), Set([bundle, zip].map(\.standardizedFileURL)))
+    }
+
+    func testFindsSeveralNumberedZips() throws {
+        let downloads = try makeDir()
+        let zip1 = downloads.appendingPathComponent("WheelClick-Upgrader.zip")
+        let zip2 = downloads.appendingPathComponent("WheelClick-Upgrader-2.zip")
+        let zip3 = downloads.appendingPathComponent("WheelClick-Upgrader-3.zip")
+        try touch(zip1); try touch(zip2); try touch(zip3)
+        let bundle = URL(fileURLWithPath: "/somewhere/else/WheelClick Upgrader.app")
+        XCTAssertEqual(Set(cleanupTargets(bundle: bundle, downloads: downloads).map(\.standardizedFileURL)), Set([bundle, zip1, zip2, zip3].map(\.standardizedFileURL)))
+    }
+
+    func testIgnoresUnrelatedFiles() throws {
+        let downloads = try makeDir()
+        try touch(downloads.appendingPathComponent("something-else.zip"))
+        try touch(downloads.appendingPathComponent("WheelClick-Upgrader.dmg"))
+        let bundle = URL(fileURLWithPath: "/somewhere/else/WheelClick Upgrader.app")
+        XCTAssertEqual(cleanupTargets(bundle: bundle, downloads: downloads), [bundle])
+    }
+
+    func testMissingDownloadsDirectoryYieldsJustTheBundle() {
+        let bundle = URL(fileURLWithPath: "/somewhere/else/WheelClick Upgrader.app")
+        let downloads = URL(fileURLWithPath: "/nonexistent/Downloads")
+        XCTAssertEqual(cleanupTargets(bundle: bundle, downloads: downloads), [bundle])
+    }
+
+    func testBundleInsideDownloadsIsNotDoubleCounted() throws {
+        let downloads = try makeDir()
+        let bundle = downloads.appendingPathComponent("WheelClick Upgrader.app")
+        try FileManager.default.createDirectory(at: bundle, withIntermediateDirectories: true)
+        let zip = downloads.appendingPathComponent("WheelClick-Upgrader.zip")
+        try touch(zip)
+        // The app bundle isn't a .zip, so the directory scan doesn't pick it up a second time.
+        XCTAssertEqual(Set(cleanupTargets(bundle: bundle, downloads: downloads).map(\.standardizedFileURL)), Set([bundle, zip].map(\.standardizedFileURL)))
+        XCTAssertEqual(cleanupTargets(bundle: bundle, downloads: downloads).filter { $0.standardizedFileURL == bundle.standardizedFileURL }.count, 1)
+    }
+}
+
 final class StubProtocol: URLProtocol {
     nonisolated(unsafe) static var responses: [(Int, String)] = []
     nonisolated(unsafe) static var requests = 0

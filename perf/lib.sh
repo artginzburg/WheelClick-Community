@@ -89,9 +89,10 @@ rebuild_and_relaunch() {
         echo "No app under $BUILD/DerivedData/Build/Products — the build produced nothing." >&2
         return 1
     fi
-    if ! codesign --verify --deep --strict "$app" 2>/tmp/wc-codesign-verify.txt; then
+    local verify
+    if ! verify=$(codesign --verify --deep --strict "$app" 2>&1); then
         echo "The freshly built app does not verify — refusing to launch it:" >&2
-        cat /tmp/wc-codesign-verify.txt >&2
+        echo "$verify" >&2
         echo "Delete $BUILD/DerivedData/Build/Products and rebuild." >&2
         return 1
     fi

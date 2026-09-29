@@ -25,6 +25,34 @@ Or [download the .dmg](https://github.com/artginzburg/WheelClick-Community/relea
 
 Three-finger click and three-finger tap are **free forever**, with no account and no countdown. A license unlocks what WheelClick adds on top: fn+click, Force Click, the Magic Mouse gestures, middle-drag for CAD, autoscroll and per-app rules.
 
+## How it compares
+
+Every Mac app that brings back the middle click, on the attributes people ask about first. Each cell was checked against that app's own materials on 31 August 2026, and anything they don't state says so rather than guessing.
+
+| | Price | Free to keep | macOS | Magic Mouse | Autoscroll | Per-app rules |
+|---|---|---|---|---|---|---|
+| **WheelClick** | $4.99 one-time, 14-day trial | Three-finger click and tap, forever | 13+ | Yes, in the direct build | Yes | Yes |
+| MiddleClick | Free, GPL-3.0 | The whole app | 10.13+ | Yes | No | Ignore list |
+| MiddleDrag | Free, MIT | The whole app | 15+ | No | Only where an app has its own | Not documented |
+| Middle | Paid, 7-day trial | No | 10.15+ | Yes | Not documented | Not documented |
+| MiddleTouch | $4.99 on the App Store, no trial | No | 10.15+ | No | Not documented | Not documented |
+| Multitouch | $15.99, 30-day trial | No | 10.15+ | Yes | Not documented | Yes |
+| BetterTouchTool | $15, or $25 lifetime, 45-day trial | No | Not documented | Yes | A basic action | Yes |
+
+The full table, with every row and a page per app on which one fits whom: **[wheelclick.app/vs/everything →](https://wheelclick.app/vs/everything?ref=community-readme)**
+
+## Questions
+
+**Is it free?** Three-finger click and three-finger tap on the trackpad are free forever, with no account and no countdown. Everything else is a one-time $4.99 after a 14-day trial.
+
+**Does it work with a Magic Mouse?** The version from wheelclick.app middle-clicks on the mouse's own surface. The App Store version cannot: reading a Magic Mouse's fingers needs access macOS grants only outside the App Store sandbox. fn+click works on any mouse in both. [Why, in full →](https://wheelclick.app/learn/magic-mouse?ref=community-readme)
+
+**App Store or direct?** The same app, apart from the Magic Mouse gestures. An App Store purchase moves to the direct version for free: [wheelclick.app/upgrade](https://wheelclick.app/upgrade?ref=community-readme).
+
+**Does it fight macOS's Three Finger Drag?** Not for the click: three-finger click and Three Finger Drag work at once, because WheelClick tells a physical click from the drag's synthesized one by the trackpad's own pressure reading.
+
+**What does it cost in battery?** Measured, not estimated: at rest it draws 1/20 of what the menu bar clock does. [How that was measured →](https://wheelclick.app/learn/software-energy-efficiency-rating?ref=community-readme)
+
 ## What's here — and what isn't
 
 WheelClick's source is closed, so **there is no app code in this repository**. What lives here is everything that benefits from being public:
@@ -87,7 +115,7 @@ sw_vers && defaults read /Applications/WheelClick.app/Contents/Info CFBundleShor
 
 ## Watching this repo does something concrete
 
-Homebrew's own cask index accepts a third-party app once its repository clears **75 stars or 30 watchers**. WheelClick has one of each today.
+Homebrew's own cask index takes an app once its repository shows public interest: **75 stars or 30 watchers** when someone other than the author submits it, 225 or 90 when the author does. WheelClick is well short of both today.
 
 That is the entire difference between
 

@@ -27,7 +27,7 @@ Three-finger click and three-finger tap are **free forever**, with no account an
 
 ## How it compares
 
-Every Mac app that brings back the middle click, on the attributes people ask about first. Each cell was checked against that app's own materials on 31 August 2026, and anything they don't state says so rather than guessing.
+Every Mac app that brings back the middle click, on the attributes people ask about first. Each cell was checked against that app's own materials on 31 August 2026 (MagicPrefs on 4 October), and anything they don't state says so rather than guessing.
 
 | | Price | Free to keep | macOS | Magic Mouse | Autoscroll | Per-app rules |
 |---|---|---|---|---|---|---|
@@ -38,6 +38,7 @@ Every Mac app that brings back the middle click, on the attributes people ask ab
 | MiddleTouch | $4.99 on the App Store, no trial | No | 10.15+ | No | Not documented | Not documented |
 | Multitouch | $15.99, 30-day trial | No | 10.15+ | Yes | Not documented | Yes |
 | BetterTouchTool | $15, or $25 lifetime, 45-day trial | No | Not documented | Yes | A basic action | Yes |
+| MagicPrefs | £26 for 2 years, or £62 lifetime, 7-day trial | No | 15+ | Not documented | Not documented | No |
 
 The full table, with every row and a page per app on which one fits whom: **[wheelclick.app/vs/everything →](https://wheelclick.app/vs/everything?ref=community-readme)**
 

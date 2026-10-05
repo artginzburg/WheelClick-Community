@@ -61,7 +61,7 @@ WheelClick's source is closed, so **there is no app code in this repository**. W
 - **Releases** — every version, signed and notarized. The Homebrew cask installs from here.
 - **Issues** — bugs, read by the person who writes the app.
 - **Discussions** — the gestures you wish existed, and anything you're trying to work out.
-- **Localizations**, once there are any to keep.
+- **[Localizations](Localization)** — the app's interface in 15 languages besides English. A wrong or awkward word in yours is a one-line pull request; [`Localization/README.md`](Localization/README.md) says how.
 
 ## Closed app, open parts
 

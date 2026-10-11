@@ -4032,91 +4032,91 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Über den Verbrauch der Uhr in der Menüleiste"
+            "value": "Etwa so viel wie die Uhr in der Menüleiste"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sobre el consumo del reloj de la barra de menús"
+            "value": "Casi lo mismo que el reloj de la barra de menús"
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sobre el consumo del reloj de la barra de menús"
+            "value": "Casi lo mismo que el reloj de la barra de menús"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "À propos de la consommation de l’horloge de la barre des menus"
+            "value": "Environ autant que l’horloge de la barre des menus"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sul consumo dell’orologio nella barra dei menu"
+            "value": "Circa quanto l’orologio nella barra dei menu"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "メニューバーの時計の消費電力について"
+            "value": "メニューバーの時計とほぼ同じ"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "메뉴 막대 시계의 소비 전력에 관하여"
+            "value": "메뉴 막대 시계와 거의 같음"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "O zużyciu energii przez zegar na pasku menu"
+            "value": "Mniej więcej tyle, co zegar na pasku menu"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sobre o consumo do relógio da barra de menus"
+            "value": "Quase o mesmo que o relógio da barra de menus"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "О потреблении часов в строке меню"
+            "value": "Примерно как часы в строке меню"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Menü çubuğu saatinin tüketimi hakkında"
+            "value": "Menü çubuğu saatiyle hemen hemen aynı"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Про споживання годинника у смузі меню"
+            "value": "Приблизно як годинник у смузі меню"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Về mức tiêu thụ của đồng hồ trên thanh menu"
+            "value": "Gần bằng đồng hồ trên thanh menu"
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "关于菜单栏时钟的耗电"
+            "value": "与菜单栏时钟差不多"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "關於選單列時鐘的耗電"
+            "value": "與選單列時鐘差不多"
           }
         }
       }

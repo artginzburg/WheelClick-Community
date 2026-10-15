@@ -5,7 +5,7 @@
 **The middle click your Mac never had.** Three-finger click or tap, fn+click, or Force Click — on the trackpad and the Magic Mouse.
 
 [![Latest release](https://img.shields.io/github/v/release/artginzburg/WheelClick-Community?label=latest&color=0071e3)](https://github.com/artginzburg/WheelClick-Community/releases/latest)
-[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-lightgrey)](https://wheelclick.app/?ref=community-readme)
+[![macOS 12+](https://img.shields.io/badge/macOS-12%2B-lightgrey)](https://wheelclick.app/?ref=community-readme)
 
 ### [→ wheelclick.app](https://wheelclick.app/?ref=community-readme)
 
@@ -31,7 +31,7 @@ Every Mac app that brings back the middle click, on the attributes people ask ab
 
 | | Price | Free to keep | macOS | Magic Mouse | Autoscroll | Per-app rules |
 |---|---|---|---|---|---|---|
-| **WheelClick** | $4.99 one-time, 14-day trial | Three-finger click and tap, forever | 13+ | Yes, in the direct build | Yes | Yes |
+| **WheelClick** | $4.99 one-time, 14-day trial | Three-finger click and tap, forever | 12+ | Yes, in the direct build | Yes | Yes |
 | MiddleClick | Free, GPL-3.0 | The whole app | 10.13+ | Yes | No | Ignore list |
 | MiddleDrag | Free, MIT | The whole app | 15+ | No | Only where an app has its own | Not documented |
 | Middle | Paid, 7-day trial | No | 10.15+ | Yes | Not documented | Not documented |

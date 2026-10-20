@@ -8931,6 +8931,196 @@
         }
       }
     },
+    "Couldn't reach the App Store to check. Check your connection and try again.": {
+      "comment": "Buy window error: Restore Purchases could not reach the App Store",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der App Store war nicht erreichbar, um das zu prüfen. Prüfe deine Verbindung und versuche es erneut."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo conectar con el App Store para comprobarlo. Comprueba tu conexión e inténtalo de nuevo."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo conectar con el App Store para verificarlo. Revisa tu conexión e inténtalo de nuevo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de joindre l’App Store pour vérifier. Vérifiez votre connexion et réessayez."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile raggiungere l’App Store per verificare. Controlla la connessione e riprova."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "確認のためにApp Storeに接続できませんでした。接続を確認して、もう一度お試しください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인을 위해 App Store에 연결할 수 없습니다. 연결 상태를 확인하고 다시 시도하십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie udało się połączyć z App Store, aby to sprawdzić. Sprawdź połączenie i spróbuj ponownie."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível conectar à App Store para verificar. Verifique sua conexão e tente de novo."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось связаться с App Store для проверки. Проверьте соединение и попробуйте еще раз."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontrol için App Store’a ulaşılamadı. Bağlantınızı denetleyip yeniden deneyin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не вдалося зв’язатися з App Store для перевірки. Перевірте з’єднання й спробуйте ще раз."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không kết nối được với App Store để kiểm tra. Hãy kiểm tra kết nối rồi thử lại."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法连接 App Store 进行检查。请检查网络连接后重试。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無法連線至 App Store 進行檢查。請檢查網路連線後再試一次。"
+          }
+        }
+      }
+    },
+    "Couldn't reach the App Store. Check your connection and try again. Nothing was charged.": {
+      "comment": "Buy window error, App Store version: the purchase failed for lack of network",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der App Store war nicht erreichbar. Prüfe deine Verbindung und versuche es erneut. Es wurde nichts abgebucht."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo conectar con el App Store. Comprueba tu conexión e inténtalo de nuevo. No se ha cobrado nada."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo conectar con el App Store. Revisa tu conexión e inténtalo de nuevo. No se cobró nada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de joindre l’App Store. Vérifiez votre connexion et réessayez. Rien n’a été débité."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossibile raggiungere l’App Store. Controlla la connessione e riprova. Non è stato addebitato nulla."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Storeに接続できませんでした。接続を確認して、もう一度お試しください。請求はありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store에 연결할 수 없습니다. 연결 상태를 확인하고 다시 시도하십시오. 청구된 금액은 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nie udało się połączyć z App Store. Sprawdź połączenie i spróbuj ponownie. Nic nie pobrano."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível conectar à App Store. Verifique sua conexão e tente de novo. Nada foi cobrado."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось связаться с App Store. Проверьте соединение и попробуйте еще раз. Деньги не списаны."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store’a ulaşılamadı. Bağlantınızı denetleyip yeniden deneyin. Hiçbir ücret alınmadı."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не вдалося зв’язатися з App Store. Перевірте з’єднання й спробуйте ще раз. Нічого не списано."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không kết nối được với App Store. Hãy kiểm tra kết nối rồi thử lại. Chưa trừ tiền gì."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法连接 App Store。请检查网络连接后重试。未产生任何扣费。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無法連線至 App Store。請檢查網路連線後再試一次。沒有任何扣款。"
+          }
+        }
+      }
+    },
     "Couldn't reach the store to activate — check your connection and click the activation link again.": {
       "comment": "Purchase window error after an activation link failed: no connection to the license store",
       "localizations": {
@@ -13530,6 +13720,101 @@
         }
       }
     },
+    "In-app purchases aren't allowed on this Mac or Apple Account, so the App Store refused. Nothing was charged.": {
+      "comment": "Buy window error, App Store version: in-app purchases are restricted (Screen Time or a managed Mac)",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In-App-Käufe sind auf diesem Mac oder mit diesem Apple Account nicht erlaubt, daher hat der App Store abgelehnt. Es wurde nichts abgebucht."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las compras dentro de apps no están permitidas en este Mac o con esta cuenta de Apple, así que el App Store las ha rechazado. No se ha cobrado nada."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las compras dentro de apps no están permitidas en esta Mac o con esta cuenta de Apple, así que el App Store las rechazó. No se cobró nada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les achats intégrés ne sont pas autorisés sur ce Mac ou ce compte Apple, l’App Store a donc refusé. Rien n’a été débité."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gli acquisti in-app non sono consentiti su questo Mac o con questo Account Apple, quindi l’App Store ha rifiutato. Non è stato addebitato nulla."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このMacまたはAppleアカウントではApp内課金が許可されていないため、App Storeが購入を拒否しました。請求はありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac 또는 Apple 계정에서는 앱 내 구입이 허용되지 않아 App Store가 구입을 거부했습니다. 청구된 금액은 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zakupy w aplikacji są niedozwolone na tym Macu lub koncie Apple, więc App Store odmówił. Nic nie pobrano."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compras dentro de apps não são permitidas neste Mac ou nesta Conta Apple, então a App Store recusou. Nada foi cobrado."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Встроенные покупки запрещены на этом Mac или для этой учетной записи Apple, поэтому App Store отказал. Деньги не списаны."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu Mac’te veya bu Apple Hesabı’nda uygulama içi satın almalara izin verilmiyor, bu yüzden App Store reddetti. Hiçbir ücret alınmadı."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покупки в програмах заборонені на цьому Mac або для цього облікового запису Apple, тож App Store відмовив. Нічого не списано."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mua hàng trong ứng dụng không được phép trên máy Mac hoặc Tài khoản Apple này, nên App Store đã từ chối. Chưa trừ tiền gì."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 Mac 或 Apple 账户不允许 App 内购买，因此 App Store 拒绝了此次购买。未产生任何扣费。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 Mac 或 Apple 帳號不允許 App 內購買，因此 App Store 拒絕了這次購買。沒有任何扣款。"
+          }
+        }
+      }
+    },
     "Inbox": {
       "comment": "Onboarding playground: title of a pretend browser tab",
       "localizations": {
@@ -14290,6 +14575,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "它存在的意義，就是給下面的連結當個屋頂。"
+          }
+        }
+      }
+    },
+    "It happened again. Please write to support@wheelclick.app with your macOS version; that is enough for us to find it.": {
+      "comment": "Buy window advice, App Store version, after a second purchase failed because of a bug in the app. Keep the email address as is",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es ist wieder passiert. Bitte schreib an support@wheelclick.app und nenne deine macOS-Version; das reicht uns, um den Fehler zu finden."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ha vuelto a ocurrir. Escribe a support@wheelclick.app indicando tu versión de macOS; con eso nos basta para encontrarlo."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volvió a ocurrir. Escribe a support@wheelclick.app con tu versión de macOS; con eso nos basta para encontrarlo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "C’est arrivé à nouveau. Écrivez à support@wheelclick.app en indiquant votre version de macOS ; cela nous suffit pour trouver le problème."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "È successo di nuovo. Scrivi a support@wheelclick.app indicando la tua versione di macOS: ci basta per trovare il problema."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再び発生しました。お使いのmacOSのバージョンを添えて support@wheelclick.app までご連絡ください。それだけで原因を特定できます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다시 발생했습니다. 사용 중인 macOS 버전을 적어 support@wheelclick.app으로 보내 주십시오. 그것만으로 원인을 찾을 수 있습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "To się powtórzyło. Napisz na support@wheelclick.app i podaj wersję macOS; to wystarczy, żebyśmy znaleźli błąd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aconteceu de novo. Escreva para support@wheelclick.app informando sua versão do macOS; isso basta para encontrarmos o problema."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это повторилось. Напишите на support@wheelclick.app и укажите версию macOS; этого достаточно, чтобы мы нашли причину."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yine oldu. Lütfen macOS sürümünüzle birlikte support@wheelclick.app adresine yazın; sorunu bulmamız için bu yeterli."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Це повторилося. Напишіть на support@wheelclick.app і вкажіть версію macOS; цього досить, щоб ми знайшли причину."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lỗi lại xảy ra. Hãy gửi thư tới support@wheelclick.app kèm phiên bản macOS của bạn; chừng đó là đủ để chúng tôi tìm ra lỗi."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "又出现了。请写信至 support@wheelclick.app，并注明你的 macOS 版本，这样我们就能找到问题。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "又發生了。請寫信至 support@wheelclick.app，並註明你的 macOS 版本，這樣我們就能找到問題。"
           }
         }
       }
@@ -18253,97 +18633,97 @@
         }
       }
     },
-    "No previous purchase found for this Apple Account.": {
-      "comment": "Buy window error after Restore Purchases found nothing",
+    "No purchase of WheelClick was found for the Apple Account signed in to the App Store on this Mac. Bought it with another Apple Account? Sign in to the App Store app with that account, then restore again.": {
+      "comment": "Buy window error after Restore Purchases checked with the App Store and found no purchase",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kein früherer Kauf für diesen Apple Account gefunden."
+            "value": "Für den Apple Account, der auf diesem Mac im App Store angemeldet ist, wurde kein Kauf von WheelClick gefunden. Mit einem anderen Apple Account gekauft? Melde dich mit diesem Account in der App Store App an und stelle die Käufe dann erneut wieder her."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se ha encontrado ninguna compra anterior para esta cuenta de Apple."
+            "value": "No se ha encontrado ninguna compra de WheelClick para la cuenta de Apple con la que se ha iniciado sesión en el App Store de este Mac. ¿La compraste con otra cuenta de Apple? Inicia sesión con esa cuenta en la app App Store y vuelve a restaurar."
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se encontró ninguna compra anterior para esta cuenta de Apple."
+            "value": "No se encontró ninguna compra de WheelClick para la cuenta de Apple con la que se inició sesión en el App Store de esta Mac. ¿La compraste con otra cuenta de Apple? Inicia sesión con esa cuenta en la app App Store y vuelve a restaurar."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Aucun achat précédent trouvé pour ce compte Apple."
+            "value": "Aucun achat de WheelClick n’a été trouvé pour le compte Apple connecté à l’App Store sur ce Mac. Acheté avec un autre compte Apple ? Connectez-vous avec ce compte dans l’app App Store, puis restaurez à nouveau."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nessun acquisto precedente trovato per questo Account Apple."
+            "value": "Nessun acquisto di WheelClick trovato per l’Account Apple con cui hai effettuato l’accesso all’App Store su questo Mac. L’hai acquistato con un altro Account Apple? Accedi con quell’account nell’app App Store, poi ripristina di nuovo."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "このAppleアカウントでの以前の購入は見つかりませんでした。"
+            "value": "このMacのApp StoreにサインインしているAppleアカウントでは、WheelClickの購入が見つかりませんでした。別のAppleアカウントで購入しましたか？App Storeアプリでそのアカウントにサインインしてから、もう一度復元してください。"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "이 Apple 계정에서 이전 구입 내역을 찾을 수 없습니다."
+            "value": "이 Mac의 App Store에 로그인된 Apple 계정에서 WheelClick 구입 내역을 찾을 수 없습니다. 다른 Apple 계정으로 구입하셨습니까? App Store 앱에서 해당 계정으로 로그인한 다음 다시 복원하십시오."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nie znaleziono wcześniejszego zakupu dla tego konta Apple."
+            "value": "Nie znaleziono zakupu WheelClick dla konta Apple zalogowanego w App Store na tym Macu. Kupiono na innym koncie Apple? Zaloguj się na nie w aplikacji App Store, a potem odtwórz zakupy ponownie."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nenhuma compra anterior encontrada para esta Conta Apple."
+            "value": "Nenhuma compra do WheelClick foi encontrada para a Conta Apple conectada à App Store neste Mac. Comprou com outra Conta Apple? Inicie sessão com essa conta no app App Store e restaure novamente."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Для этой учетной записи Apple предыдущих покупок не найдено."
+            "value": "Для учетной записи Apple, с которой выполнен вход в App Store на этом Mac, покупка WheelClick не найдена. Покупали с другой учетной записью Apple? Войдите в нее в приложении App Store и восстановите покупки снова."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bu Apple Hesabı için önceki bir satın alma bulunamadı."
+            "value": "Bu Mac’te App Store’a giriş yapılmış Apple Hesabı için WheelClick satın alımı bulunamadı. Başka bir Apple Hesabı ile mi satın aldınız? App Store uygulamasında o hesapla giriş yapıp yeniden geri yükleyin."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Попередніх покупок для цього облікового запису Apple не знайдено."
+            "value": "Для облікового запису Apple, з яким виконано вхід в App Store на цьому Mac, покупку WheelClick не знайдено. Купували з іншим обліковим записом Apple? Увійдіть у нього в програмі App Store і відновіть покупки ще раз."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Không tìm thấy giao dịch mua trước đây cho Tài khoản Apple này."
+            "value": "Không tìm thấy giao dịch mua WheelClick cho Tài khoản Apple đang đăng nhập App Store trên máy Mac này. Bạn đã mua bằng Tài khoản Apple khác? Hãy đăng nhập tài khoản đó trong ứng dụng App Store rồi khôi phục lại."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "未找到此 Apple 账户之前的购买记录。"
+            "value": "此 Mac 上登录 App Store 的 Apple 账户没有 WheelClick 的购买记录。用其他 Apple 账户购买过？请在 App Store 应用中登录该账户，然后再次恢复。"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "找不到此 Apple 帳號先前的購買記錄。"
+            "value": "此 Mac 上登入 App Store 的 Apple 帳號沒有 WheelClick 的購買記錄。用其他 Apple 帳號購買過？請在 App Store App 中登入該帳號，然後再次回復。"
           }
         }
       }
@@ -19482,6 +19862,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "在巧控滑鼠上，用三指按一下其表面。在任何滑鼠上，%@都是中鍵點按。"
+          }
+        }
+      }
+    },
+    "Once a payment method is on file, Buy works right away.": {
+      "comment": "Buy window advice, App Store version, after a second purchase failed for lack of a payment method. 'Buy' is the button above",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobald eine Zahlungsmethode hinterlegt ist, klappt der Kauf sofort."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En cuanto haya un método de pago registrado, la compra funcionará al momento."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En cuanto haya un método de pago registrado, la compra funcionará de inmediato."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dès qu’un moyen de paiement est enregistré, l’achat fonctionne immédiatement."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appena è registrato un metodo di pagamento, l’acquisto funziona subito."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "支払い方法を登録すれば、すぐに購入できます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "결제 수단이 등록되면 바로 구입할 수 있습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gdy tylko metoda płatności zostanie dodana, zakup od razu zadziała."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Assim que houver uma forma de pagamento cadastrada, a compra funciona na hora."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как только способ оплаты будет добавлен, покупка сразу пройдет."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir ödeme yöntemi kaydedildiğinde satın alma hemen çalışır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Щойно спосіб оплати буде додано, покупка одразу пройде."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Khi đã có phương thức thanh toán, bạn có thể mua ngay."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加付款方式后，即可立即购买。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加入付款方式後，即可立即購買。"
           }
         }
       }
@@ -22234,6 +22709,101 @@
         }
       }
     },
+    "Restore needs you to sign in to the App Store. Nothing changed.": {
+      "comment": "Buy window note after the App Store sign-in sheet was dismissed during Restore Purchases",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zum Wiederherstellen musst du dich im App Store anmelden. Es hat sich nichts geändert."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para restaurar, tienes que iniciar sesión en el App Store. No ha cambiado nada."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para restaurar, necesitas iniciar sesión en el App Store. No cambió nada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La restauration nécessite de vous connecter à l’App Store. Rien n’a changé."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per ripristinare devi accedere all’App Store. Non è cambiato nulla."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "復元するにはApp Storeへのサインインが必要です。何も変更されていません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "복원하려면 App Store에 로그인해야 합니다. 변경된 사항은 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odtworzenie zakupów wymaga zalogowania się w App Store. Nic się nie zmieniło."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para restaurar, é preciso iniciar sessão na App Store. Nada mudou."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Для восстановления нужно войти в App Store. Ничего не изменилось."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geri yüklemek için App Store’a giriş yapmanız gerekir. Hiçbir şey değişmedi."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Для відновлення потрібно увійти в App Store. Нічого не змінилося."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Để khôi phục, bạn cần đăng nhập App Store. Không có gì thay đổi."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复购买需要登录 App Store。没有任何更改。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回復購買項目需要登入 App Store。沒有任何變更。"
+          }
+        }
+      }
+    },
     "Running %@ in total": {
       "comment": "About window statistics line; the argument is how long the app has run overall, e.g. '3 h 12 min'",
       "localizations": {
@@ -23184,6 +23754,196 @@
           "stringUnit": {
             "state": "translated",
             "value": "第 %lld 步，共 %lld 步"
+          }
+        }
+      }
+    },
+    "Still no connection to the App Store. If the rest of your Mac is online, the App Store itself may be having trouble; try again in an hour.": {
+      "comment": "Buy window advice, App Store version, after a second failed purchase for lack of network",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Immer noch keine Verbindung zum App Store. Wenn der Rest deines Mac online ist, hat vielleicht der App Store selbst Probleme; versuche es in einer Stunde erneut."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigue sin haber conexión con el App Store. Si el resto del Mac tiene conexión, puede que el propio App Store tenga problemas; inténtalo de nuevo dentro de una hora."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigue sin haber conexión con el App Store. Si el resto de tu Mac tiene conexión, puede que el propio App Store tenga problemas; inténtalo de nuevo en una hora."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toujours aucune connexion à l’App Store. Si le reste de votre Mac est en ligne, l’App Store lui-même rencontre peut-être un problème ; réessayez dans une heure."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora nessuna connessione all’App Store. Se il resto del Mac è online, potrebbe avere problemi l’App Store stesso; riprova tra un’ora."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "まだApp Storeに接続できません。Macのほかの通信が正常なら、App Store側で問題が起きている可能性があります。1時間ほどしてからもう一度お試しください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여전히 App Store에 연결할 수 없습니다. Mac의 다른 인터넷 연결이 정상이라면 App Store 자체에 문제가 있을 수 있습니다. 1시간 후에 다시 시도하십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nadal brak połączenia z App Store. Jeśli reszta Maca ma internet, problem może leżeć po stronie samego App Store; spróbuj ponownie za godzinę."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ainda sem conexão com a App Store. Se o resto do seu Mac estiver online, a própria App Store pode estar com problemas; tente de novo em uma hora."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Связи с App Store по-прежнему нет. Если остальной интернет на Mac работает, возможно, сбой у самого App Store; попробуйте через час."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store’a hâlâ bağlanılamıyor. Mac’inizin geri kalanı çevrimiçiyse sorun App Store’un kendisinde olabilir; bir saat sonra yeniden deneyin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зв’язку з App Store досі немає. Якщо решта інтернету на Mac працює, можливо, збій у самому App Store; спробуйте за годину."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vẫn chưa kết nối được với App Store. Nếu các kết nối khác trên máy Mac vẫn bình thường, có thể chính App Store đang gặp sự cố; hãy thử lại sau một giờ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍然无法连接 App Store。如果 Mac 的其他网络正常，可能是 App Store 本身出了问题；请一小时后再试。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍然無法連線至 App Store。如果 Mac 的其他網路正常，可能是 App Store 本身出了問題；請一小時後再試一次。"
+          }
+        }
+      }
+    },
+    "Still unavailable. This one is ours to fix; the address above reaches us.": {
+      "comment": "Buy window advice, App Store version, after a second attempt to buy where the purchase is not offered. 'The address above' is the support email in the line before",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weiterhin nicht verfügbar. Das müssen wir beheben; die Adresse oben erreicht uns direkt."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigue sin estar disponible. Esto nos toca arreglarlo a nosotros; la dirección de arriba nos llega directamente."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigue sin estar disponible. Esto nos toca arreglarlo a nosotros; la dirección de arriba nos llega directamente."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toujours indisponible. C’est à nous de corriger cela ; l’adresse ci-dessus nous joint directement."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ancora non disponibile. Tocca a noi risolverlo; l’indirizzo qui sopra arriva direttamente a noi."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "引き続き購入できません。これは私たちが解決すべき問題です。上記のアドレスまでご連絡ください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여전히 구입할 수 없습니다. 저희가 해결해야 할 문제입니다. 위의 주소로 연락해 주십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nadal niedostępne. To my musimy to naprawić; adres powyżej trafia prosto do nas."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continua indisponível. Cabe a nós resolver isso; o endereço acima chega direto até nós."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "По-прежнему недоступно. Это нам нужно исправить; адрес выше ведет прямо к нам."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hâlâ kullanılamıyor. Bunu düzeltmek bize düşüyor; yukarıdaki adres doğrudan bize ulaşır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Досі недоступно. Це нам треба виправити; адреса вище веде прямо до нас."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vẫn chưa thể mua. Lỗi này do chúng tôi khắc phục; địa chỉ ở trên sẽ đến thẳng chúng tôi."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍然无法购买。这需要我们来解决；上面的地址可以直接联系到我们。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍然無法購買。這需要我們來解決；上面的地址可以直接聯絡到我們。"
           }
         }
       }
@@ -24708,6 +25468,386 @@
         }
       }
     },
+    "The App Store didn't answer. Try again in a minute.": {
+      "comment": "Buy window error: Restore Purchases failed for a reason other than the network",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der App Store hat nicht geantwortet. Versuche es in einer Minute erneut."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store no ha respondido. Inténtalo de nuevo en un minuto."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store no respondió. Inténtalo de nuevo en un minuto."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store n’a pas répondu. Réessayez dans une minute."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store non ha risposto. Riprova tra un minuto."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Storeから応答がありませんでした。1分ほどしてからもう一度お試しください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store가 응답하지 않았습니다. 잠시 후 다시 시도하십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store nie odpowiedział. Spróbuj ponownie za chwilę."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A App Store não respondeu. Tente de novo em um minuto."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store не ответил. Попробуйте через минуту."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store yanıt vermedi. Bir dakika sonra yeniden deneyin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store не відповів. Спробуйте ще раз за хвилину."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store không phản hồi. Hãy thử lại sau một phút."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 没有响应。请稍后再试。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 沒有回應。請稍後再試。"
+          }
+        }
+      }
+    },
+    "The App Store didn't complete the purchase. Nothing was charged. Try again in a minute.": {
+      "comment": "Buy window error, App Store version: the App Store refused the purchase or its system service failed",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der App Store hat den Kauf nicht abgeschlossen. Es wurde nichts abgebucht. Versuche es in einer Minute erneut."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store no ha completado la compra. No se ha cobrado nada. Inténtalo de nuevo en un minuto."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store no completó la compra. No se cobró nada. Inténtalo de nuevo en un minuto."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store n’a pas finalisé l’achat. Rien n’a été débité. Réessayez dans une minute."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store non ha completato l’acquisto. Non è stato addebitato nulla. Riprova tra un minuto."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Storeで購入が完了しませんでした。請求はありません。1分ほどしてからもう一度お試しください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store에서 구입이 완료되지 않았습니다. 청구된 금액은 없습니다. 잠시 후 다시 시도하십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store nie dokończył zakupu. Nic nie pobrano. Spróbuj ponownie za chwilę."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A App Store não concluiu a compra. Nada foi cobrado. Tente de novo em um minuto."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store не завершил покупку. Деньги не списаны. Попробуйте через минуту."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store satın almayı tamamlamadı. Hiçbir ücret alınmadı. Bir dakika sonra yeniden deneyin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store не завершив покупку. Нічого не списано. Спробуйте ще раз за хвилину."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store chưa hoàn tất giao dịch mua. Chưa trừ tiền gì. Hãy thử lại sau một phút."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 未完成此次购买。未产生任何扣费。请稍后再试。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 未完成這次購買。沒有任何扣款。請稍後再試。"
+          }
+        }
+      }
+    },
+    "The App Store recorded a purchase, but this Mac couldn't verify it. You won't be charged twice. Quit and reopen WheelClick, or use Restore Purchases.": {
+      "comment": "Buy window error, App Store version: the purchase went through but could not be verified on this Mac. 'Restore Purchases' is the button below",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der App Store hat einen Kauf erfasst, aber dieser Mac konnte ihn nicht bestätigen. Dir wird nichts doppelt berechnet. Beende WheelClick und öffne es erneut, oder nutze „Käufe wiederherstellen“."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store ha registrado una compra, pero este Mac no ha podido verificarla. No se te cobrará dos veces. Sal de WheelClick y vuelve a abrirlo, o usa Restaurar compras."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store registró una compra, pero esta Mac no pudo verificarla. No se te cobrará dos veces. Sal de WheelClick y vuelve a abrirlo, o usa Restaurar compras."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store a enregistré un achat, mais ce Mac n’a pas pu le vérifier. Vous ne serez pas débité deux fois. Quittez et rouvrez WheelClick, ou utilisez Restaurer les achats."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store ha registrato un acquisto, ma questo Mac non è riuscito a verificarlo. Non ti verrà addebitato due volte. Esci da WheelClick e riaprilo, oppure usa Ripristina acquisti."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Storeに購入が記録されましたが、このMacで確認できませんでした。二重に請求されることはありません。WheelClickを終了して開き直すか、「購入済みアイテムを復元」を使ってください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store에 구입이 기록되었지만 이 Mac에서 확인하지 못했습니다. 이중으로 청구되지 않습니다. WheelClick을 종료한 후 다시 열거나 구입 항목 복원을 사용하십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store zarejestrował zakup, ale ten Mac nie mógł go zweryfikować. Nie zapłacisz dwa razy. Zakończ i otwórz ponownie WheelClick albo użyj opcji Odtwórz zakupy."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A App Store registrou uma compra, mas este Mac não conseguiu verificá-la. Você não será cobrado duas vezes. Encerre e abra o WheelClick de novo, ou use Restaurar Compras."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store зарегистрировал покупку, но этот Mac не смог ее проверить. Повторно деньги не спишут. Завершите и снова откройте WheelClick или нажмите «Восстановить покупки»."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store bir satın alma kaydetti ancak bu Mac bunu doğrulayamadı. İki kez ücret alınmayacak. WheelClick’ten çıkıp yeniden açın ya da Satın Alınanları Geri Yükle’yi kullanın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store зареєстрував покупку, але цей Mac не зміг її перевірити. Двічі гроші не спишуть. Завершіть і знову відкрийте WheelClick або скористайтеся «Відновити покупки»."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store đã ghi nhận giao dịch mua nhưng máy Mac này không xác minh được. Bạn sẽ không bị tính tiền hai lần. Hãy thoát rồi mở lại WheelClick, hoặc dùng Khôi phục giao dịch mua."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 已记录一笔购买，但此 Mac 无法验证。你不会被重复扣费。请退出并重新打开 WheelClick，或使用“恢复购买”。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 已記錄一筆購買，但此 Mac 無法驗證。你不會被重複扣款。請結束並重新打開 WheelClick，或使用「回復購買項目」。"
+          }
+        }
+      }
+    },
+    "The App Store refused twice. That is usually the Apple Account, not WheelClick: open the App Store app, click your name, and check the payment method and any terms waiting to be accepted, then try again here. Nothing has been charged.": {
+      "comment": "Buy window advice, App Store version, after the App Store refused a purchase twice",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der App Store hat zweimal abgelehnt. Meist liegt das am Apple Account, nicht an WheelClick: Öffne die App Store App, klicke auf deinen Namen und prüfe die Zahlungsmethode und ob Bedingungen auf deine Zustimmung warten. Versuche es dann hier erneut. Es wurde nichts abgebucht."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store lo ha rechazado dos veces. Suele deberse a la cuenta de Apple, no a WheelClick: abre la app App Store, haz clic en tu nombre y revisa el método de pago y si hay condiciones pendientes de aceptar; después, vuelve a intentarlo aquí. No se ha cobrado nada."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El App Store lo rechazó dos veces. Suele deberse a la cuenta de Apple, no a WheelClick: abre la app App Store, haz clic en tu nombre y revisa el método de pago y si hay términos pendientes de aceptar; después, vuelve a intentarlo aquí. No se cobró nada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store a refusé deux fois. Cela vient généralement du compte Apple, pas de WheelClick : ouvrez l’app App Store, cliquez sur votre nom, vérifiez le moyen de paiement et les conditions en attente d’acceptation, puis réessayez ici. Rien n’a été débité."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’App Store ha rifiutato due volte. Di solito dipende dall’Account Apple, non da WheelClick: apri l’app App Store, fai clic sul tuo nome e controlla il metodo di pagamento e gli eventuali termini da accettare, poi riprova qui. Non è stato addebitato nulla."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Storeで2回拒否されました。多くの場合、原因はWheelClickではなくAppleアカウントにあります。App Storeアプリを開いて自分の名前をクリックし、支払い方法と未同意の利用規約がないかを確認してから、ここでもう一度お試しください。請求はありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store가 두 번 거부했습니다. 보통 WheelClick이 아니라 Apple 계정 문제입니다. App Store 앱을 열고 이름을 클릭한 다음 결제 수단과 동의를 기다리는 약관이 있는지 확인한 후 여기서 다시 시도하십시오. 청구된 금액은 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store odmówił dwa razy. Zwykle chodzi o konto Apple, nie o WheelClick: otwórz aplikację App Store, kliknij swoje imię i sprawdź metodę płatności oraz warunki czekające na akceptację, a potem spróbuj ponownie tutaj. Nic nie pobrano."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A App Store recusou duas vezes. Normalmente é a Conta Apple, não o WheelClick: abra o app App Store, clique no seu nome e confira a forma de pagamento e se há termos aguardando aceitação; depois, tente de novo aqui. Nada foi cobrado."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store отказал дважды. Обычно дело в учетной записи Apple, а не в WheelClick: откройте приложение App Store, нажмите на свое имя и проверьте способ оплаты и условия, ожидающие принятия, затем попробуйте здесь еще раз. Деньги не списаны."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store iki kez reddetti. Bu genellikle WheelClick’ten değil Apple Hesabı’ndan kaynaklanır: App Store uygulamasını açın, adınızı tıklayın, ödeme yöntemini ve kabul bekleyen koşul olup olmadığını denetleyin, ardından burada yeniden deneyin. Hiçbir ücret alınmadı."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store відмовив двічі. Зазвичай причина в обліковому записі Apple, а не в WheelClick: відкрийте програму App Store, натисніть своє ім’я й перевірте спосіб оплати та умови, що чекають на згоду, а тоді спробуйте тут ще раз. Нічого не списано."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store đã từ chối hai lần. Thường là do Tài khoản Apple, không phải WheelClick: hãy mở ứng dụng App Store, bấm vào tên của bạn, kiểm tra phương thức thanh toán và các điều khoản đang chờ chấp nhận, rồi thử lại tại đây. Chưa trừ tiền gì."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 已两次拒绝。这通常是 Apple 账户的问题，而不是 WheelClick 的问题：打开 App Store 应用，点按你的名字，检查付款方式以及是否有待接受的条款，然后在这里重试。未产生任何扣费。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store 已兩次拒絕。這通常是 Apple 帳號的問題，而不是 WheelClick 的問題：打開 App Store App，按一下你的名字，檢查付款方式以及是否有待接受的條款，然後在這裡再試一次。沒有任何扣款。"
+          }
+        }
+      }
+    },
     "The checkout opens in your browser and activates WheelClick by itself.": {
       "localizations": {
         "de": {
@@ -25087,97 +26227,97 @@
         }
       }
     },
-    "The purchase didn't go through — nothing was charged. Try again in a minute.": {
-      "comment": "Buy window error after an App Store purchase failed",
+    "The purchase couldn't start because of a problem in WheelClick, not with your account. Nothing was charged. Quit and reopen WheelClick, then try again.": {
+      "comment": "Buy window error, App Store version: the purchase failed because of a bug in the app",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Der Kauf ist nicht durchgegangen – es wurde nichts abgebucht. Versuche es in einer Minute erneut."
+            "value": "Der Kauf konnte wegen eines Problems in WheelClick nicht starten, nicht wegen deines Accounts. Es wurde nichts abgebucht. Beende WheelClick, öffne es erneut und versuche es noch einmal."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "La compra no se ha completado; no se ha cobrado nada. Inténtalo de nuevo en un minuto."
+            "value": "La compra no ha podido iniciarse por un problema de WheelClick, no de tu cuenta. No se ha cobrado nada. Sal de WheelClick, vuelve a abrirlo e inténtalo de nuevo."
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "La compra no se completó; no se cobró nada. Inténtalo de nuevo en un minuto."
+            "value": "La compra no pudo iniciarse por un problema de WheelClick, no de tu cuenta. No se cobró nada. Sal de WheelClick, vuelve a abrirlo e inténtalo de nuevo."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "L’achat n’a pas abouti — rien n’a été débité. Réessayez dans une minute."
+            "value": "L’achat n’a pas pu démarrer à cause d’un problème dans WheelClick, pas de votre compte. Rien n’a été débité. Quittez et rouvrez WheelClick, puis réessayez."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "L’acquisto non è andato a buon fine: non è stato addebitato nulla. Riprova tra un minuto."
+            "value": "L’acquisto non è potuto partire per un problema di WheelClick, non del tuo account. Non è stato addebitato nulla. Esci da WheelClick, riaprilo e riprova."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "購入は完了しませんでした。請求はありません。1分ほどしてからもう一度お試しください。"
+            "value": "アカウントではなくWheelClick側の問題により、購入を開始できませんでした。請求はありません。WheelClickを終了して開き直してから、もう一度お試しください。"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "구입이 완료되지 않았습니다. 청구된 금액은 없습니다. 잠시 후 다시 시도하십시오."
+            "value": "계정이 아니라 WheelClick의 문제로 구입을 시작할 수 없었습니다. 청구된 금액은 없습니다. WheelClick을 종료한 후 다시 열고 다시 시도하십시오."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zakup nie został zrealizowany — nic nie pobrano. Spróbuj ponownie za chwilę."
+            "value": "Zakup nie mógł się rozpocząć z powodu błędu w WheelClick, a nie na twoim koncie. Nic nie pobrano. Zakończ i otwórz ponownie WheelClick, a potem spróbuj jeszcze raz."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "A compra não foi concluída — nada foi cobrado. Tente de novo em um minuto."
+            "value": "A compra não pôde começar por um problema no WheelClick, não na sua conta. Nada foi cobrado. Encerre e abra o WheelClick de novo e tente outra vez."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Покупка не прошла — деньги не списаны. Попробуйте через минуту."
+            "value": "Покупка не началась из-за ошибки в WheelClick, а не в вашей учетной записи. Деньги не списаны. Завершите и снова откройте WheelClick, затем попробуйте еще раз."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Satın alma gerçekleşmedi — hiçbir ücret alınmadı. Bir dakika sonra yeniden deneyin."
+            "value": "Satın alma, hesabınızdan değil WheelClick’teki bir sorundan dolayı başlatılamadı. Hiçbir ücret alınmadı. WheelClick’ten çıkıp yeniden açın, ardından tekrar deneyin."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Покупка не пройшла — нічого не списано. Спробуйте ще раз за хвилину."
+            "value": "Покупка не почалася через помилку у WheelClick, а не у вашому обліковому записі. Нічого не списано. Завершіть і знову відкрийте WheelClick, а тоді спробуйте ще раз."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Giao dịch mua không thành công — chưa trừ tiền gì. Hãy thử lại sau một phút."
+            "value": "Không thể bắt đầu giao dịch mua do lỗi trong WheelClick, không phải do tài khoản của bạn. Chưa trừ tiền gì. Hãy thoát rồi mở lại WheelClick, sau đó thử lại."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "购买未完成，未产生任何扣费。请稍后再试。"
+            "value": "由于 WheelClick 本身的问题（而非你的账户），购买无法开始。未产生任何扣费。请退出并重新打开 WheelClick，然后重试。"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "購買未完成，沒有任何扣款。請稍後再試。"
+            "value": "由於 WheelClick 本身的問題（而非你的帳號），購買無法開始。沒有任何扣款。請結束並重新打開 WheelClick，然後再試一次。"
           }
         }
       }
@@ -29324,6 +30464,101 @@
         }
       }
     },
+    "WheelClick isn't available for purchase in your App Store right now. Nothing was charged. Write to support@wheelclick.app and we'll sort it out.": {
+      "comment": "Buy window error, App Store version: the purchase is not offered in this person's App Store. Keep the email address as is",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick ist in deinem App Store gerade nicht käuflich. Es wurde nichts abgebucht. Schreib an support@wheelclick.app, wir kümmern uns darum."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick no está disponible para comprar en tu App Store ahora mismo. No se ha cobrado nada. Escribe a support@wheelclick.app y lo solucionaremos."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick no está disponible para comprar en tu App Store en este momento. No se cobró nada. Escribe a support@wheelclick.app y lo solucionaremos."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick n’est pas disponible à l’achat dans votre App Store pour le moment. Rien n’a été débité. Écrivez à support@wheelclick.app et nous réglerons cela."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick al momento non è acquistabile nel tuo App Store. Non è stato addebitato nulla. Scrivi a support@wheelclick.app e risolveremo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "現在、お使いのApp StoreではWheelClickを購入できません。請求はありません。support@wheelclick.app までご連絡いただければ対応します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 사용 중인 App Store에서는 WheelClick을 구입할 수 없습니다. 청구된 금액은 없습니다. support@wheelclick.app으로 연락 주시면 해결해 드리겠습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick nie jest teraz dostępny do kupienia w twoim App Store. Nic nie pobrano. Napisz na support@wheelclick.app, a zajmiemy się tym."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O WheelClick não está disponível para compra na sua App Store no momento. Nada foi cobrado. Escreva para support@wheelclick.app e vamos resolver."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сейчас WheelClick нельзя купить в вашем App Store. Деньги не списаны. Напишите на support@wheelclick.app, и мы разберемся."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick şu anda App Store’unuzda satın alınamıyor. Hiçbir ücret alınmadı. support@wheelclick.app adresine yazın, sorunu çözelim."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зараз WheelClick не можна купити у вашому App Store. Нічого не списано. Напишіть на support@wheelclick.app, і ми розберемося."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiện không thể mua WheelClick trên App Store của bạn. Chưa trừ tiền gì. Hãy gửi thư tới support@wheelclick.app, chúng tôi sẽ xử lý."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你所在的 App Store 目前无法购买 WheelClick。未产生任何扣费。请写信至 support@wheelclick.app，我们会处理。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你所在的 App Store 目前無法購買 WheelClick。沒有任何扣款。請寫信至 support@wheelclick.app，我們會處理。"
+          }
+        }
+      }
+    },
     "WheelClick just switched on Launch at Login, so your middle-click gestures are ready as soon as your Mac starts up — nothing to reopen. It stays out of the way: no Dock icon, just the menu bar.": {
       "localizations": {
         "de": {
@@ -30290,6 +31525,101 @@
         }
       }
     },
+    "Whoever manages Screen Time or this Mac can allow in-app purchases; WheelClick can't change that.": {
+      "comment": "Buy window advice, App Store version, after a second purchase blocked by Screen Time or Mac management",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wer die Bildschirmzeit oder diesen Mac verwaltet, kann In-App-Käufe erlauben; WheelClick kann das nicht ändern."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quien gestione Tiempo de uso o este Mac puede permitir las compras dentro de apps; WheelClick no puede cambiarlo."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quien administre Tiempo en pantalla o esta Mac puede permitir las compras dentro de apps; WheelClick no puede cambiarlo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La personne qui gère Temps d’écran ou ce Mac peut autoriser les achats intégrés ; WheelClick ne peut pas le modifier."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chi gestisce Tempo di utilizzo o questo Mac può consentire gli acquisti in-app; WheelClick non può cambiarlo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スクリーンタイムまたはこのMacを管理している人がApp内課金を許可できます。WheelClickからは変更できません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크린 타임 또는 이 Mac을 관리하는 사람이 앱 내 구입을 허용할 수 있습니다. WheelClick에서는 변경할 수 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Osoba zarządzająca Czasem przed ekranem lub tym Makiem może zezwolić na zakupy w aplikacji; WheelClick nie może tego zmienić."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quem gerencia o Tempo de Uso ou este Mac pode permitir compras dentro de apps; o WheelClick não pode mudar isso."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешить встроенные покупки может тот, кто управляет Экранным временем или этим Mac; WheelClick изменить это не может."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ekran Süresi’ni veya bu Mac’i yöneten kişi uygulama içi satın almalara izin verebilir; WheelClick bunu değiştiremez."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дозволити покупки в програмах може той, хто керує Екранним часом або цим Mac; WheelClick змінити це не може."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Người quản lý Thời gian sử dụng hoặc máy Mac này có thể cho phép mua hàng trong ứng dụng; WheelClick không thể thay đổi điều đó."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "管理“屏幕使用时间”或这台 Mac 的人可以允许 App 内购买；WheelClick 无法更改此设置。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "管理「螢幕使用時間」或這台 Mac 的人可以允許 App 內購買；WheelClick 無法更改此設定。"
+          }
+        }
+      }
+    },
     "Why are you quitting WheelClick?": {
       "comment": "Title of the one-time alert shown when quitting soon after install; the buttons below are the answers",
       "localizations": {
@@ -30763,6 +32093,101 @@
         }
       }
     },
+    "Your Apple Account has no payment method on file. Add one in the App Store app (your name, then Account Settings), then try again. Nothing was charged.": {
+      "comment": "Buy window error, App Store version: the Apple Account has no payment method. 'Account Settings' is the App Store app's own menu item",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für deinen Apple Account ist keine Zahlungsmethode hinterlegt. Füge in der App Store App eine hinzu (dein Name, dann „Accounteinstellungen“) und versuche es erneut. Es wurde nichts abgebucht."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu cuenta de Apple no tiene ningún método de pago registrado. Añade uno en la app App Store (tu nombre y luego Configuración de la cuenta) y vuelve a intentarlo. No se ha cobrado nada."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu cuenta de Apple no tiene ningún método de pago registrado. Agrega uno en la app App Store (tu nombre y luego Configuración de la cuenta) y vuelve a intentarlo. No se cobró nada."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Votre compte Apple n’a aucun moyen de paiement enregistré. Ajoutez-en un dans l’app App Store (votre nom, puis Réglages du compte), puis réessayez. Rien n’a été débité."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo Account Apple non ha un metodo di pagamento registrato. Aggiungine uno nell’app App Store (il tuo nome, poi Impostazioni account), quindi riprova. Non è stato addebitato nulla."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appleアカウントに支払い方法が登録されていません。App Storeアプリで追加してから（自分の名前 >「アカウント設定」）、もう一度お試しください。請求はありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple 계정에 등록된 결제 수단이 없습니다. App Store 앱에서 추가한 다음(이름 > 계정 설정) 다시 시도하십시오. 청구된 금액은 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twoje konto Apple nie ma metody płatności. Dodaj ją w aplikacji App Store (twoje imię, potem Ustawienia konta) i spróbuj ponownie. Nic nie pobrano."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua Conta Apple não tem uma forma de pagamento cadastrada. Adicione uma no app App Store (seu nome e depois Ajustes da Conta) e tente de novo. Nada foi cobrado."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В вашей учетной записи Apple не указан способ оплаты. Добавьте его в приложении App Store (ваше имя, затем «Настройки учетной записи») и попробуйте снова. Деньги не списаны."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Hesabınızda kayıtlı bir ödeme yöntemi yok. App Store uygulamasında bir tane ekleyin (adınız, ardından Hesap Ayarları) ve yeniden deneyin. Hiçbir ücret alınmadı."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У вашому обліковому записі Apple немає способу оплати. Додайте його в програмі App Store (ваше ім’я, потім «Параметри облікового запису») і спробуйте ще раз. Нічого не списано."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tài khoản Apple của bạn chưa có phương thức thanh toán. Hãy thêm trong ứng dụng App Store (tên của bạn, rồi Cài đặt tài khoản), sau đó thử lại. Chưa trừ tiền gì."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的 Apple 账户没有登记付款方式。请在 App Store 应用中添加（你的名字 >“账户设置”），然后重试。未产生任何扣费。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的 Apple 帳號沒有登記付款方式。請在 App Store App 中加入（你的名字 >「帳號設定」），然後再試一次。沒有任何扣款。"
+          }
+        }
+      }
+    },
     "Your Mac's own three-finger swipe (Mission Control, or switching between full-screen apps) is the same gesture Middle-Drag holds and drags with.\n\n•  Middle-Drag tries to tell a hold from a swipe, but a fast swipe can still get caught as a drag, or the reverse\n•  Moving that swipe to four fingers, in Trackpad settings, clears the overlap completely\n•  Middle-Drag keeps working either way — this is about occasional mix-ups, not a suspension\n\nDeciding later is safe: this won't ask again unless the conflict changes.": {
       "comment": "Alert text about Middle-Drag overlapping with the macOS three-finger swipe (Mission Control, switching full-screen apps)",
       "localizations": {
@@ -30949,6 +32374,196 @@
           "stringUnit": {
             "state": "translated",
             "value": "付款已成功，但金鑰送達的時間異常地久。它也在你的電子郵件裡，把它貼到 App 中即可。"
+          }
+        }
+      }
+    },
+    "Your purchase is still waiting for approval (Ask to Buy).": {
+      "comment": "Buy window note after Restore Purchases, while a purchase awaits a family organizer's approval (Ask to Buy)",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Kauf wartet noch auf Zustimmung (Kaufanfrage)."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra sigue pendiente de aprobación (Solicitar compra)."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra sigue pendiente de aprobación (Solicitar compra)."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Votre achat attend toujours une approbation (Autorisation d’achat)."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo acquisto è ancora in attesa di approvazione (Chiedi di acquistare)."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "購入はまだ承認待ちです（承認と購入のリクエスト）。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "구입이 아직 승인 대기 중입니다(구입 요청)."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twój zakup nadal czeka na zgodę (Prośba o zakup)."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua compra ainda aguarda aprovação (Pedir para Comprar)."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка все еще ждет одобрения (Попросить купить)."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Satın alımınız hâlâ onay bekliyor (Satın Alma İsteği)."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка досі чекає на схвалення (Попросити купити)."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giao dịch mua của bạn vẫn đang chờ phê duyệt (Yêu cầu mua)."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的购买仍在等待批准（购买前询问）。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的購買仍在等待批准（購買前詢問）。"
+          }
+        }
+      }
+    },
+    "Your purchase is waiting for approval (Ask to Buy). WheelClick unlocks by itself once it's approved, so there's nothing more to do here.": {
+      "comment": "Buy window note, App Store version, after a purchase went to a family organizer for approval (Ask to Buy)",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Kauf wartet auf Zustimmung (Kaufanfrage). WheelClick wird von selbst freigeschaltet, sobald er genehmigt ist, du musst hier also nichts weiter tun."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra está pendiente de aprobación (Solicitar compra). WheelClick se desbloqueará solo en cuanto se apruebe, así que no tienes que hacer nada más aquí."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra está pendiente de aprobación (Solicitar compra). WheelClick se desbloqueará solo en cuanto se apruebe, así que no tienes que hacer nada más aquí."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Votre achat attend une approbation (Autorisation d’achat). WheelClick se déverrouillera tout seul une fois l’achat approuvé, vous n’avez donc rien d’autre à faire ici."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo acquisto è in attesa di approvazione (Chiedi di acquistare). WheelClick si sbloccherà da solo appena approvato, quindi qui non devi fare altro."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "購入は承認待ちです（承認と購入のリクエスト）。承認されるとWheelClickは自動的にロック解除されるので、ここで行う操作はありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "구입이 승인 대기 중입니다(구입 요청). 승인되면 WheelClick이 자동으로 잠금 해제되므로 여기서 더 하실 일은 없습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twój zakup czeka na zgodę (Prośba o zakup). WheelClick odblokuje się sam po zatwierdzeniu, więc nie musisz tu nic więcej robić."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua compra aguarda aprovação (Pedir para Comprar). O WheelClick é desbloqueado sozinho assim que ela for aprovada, então não há mais nada a fazer aqui."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка ждет одобрения (Попросить купить). WheelClick разблокируется сам, как только ее одобрят, так что здесь больше ничего делать не нужно."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Satın alımınız onay bekliyor (Satın Alma İsteği). Onaylandığında WheelClick kendiliğinden açılır, bu yüzden burada yapmanız gereken başka bir şey yok."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка чекає на схвалення (Попросити купити). WheelClick розблокується сам, щойно її схвалять, тож тут більше нічого робити не треба."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giao dịch mua của bạn đang chờ phê duyệt (Yêu cầu mua). WheelClick sẽ tự mở khóa khi được duyệt, nên bạn không cần làm gì thêm ở đây."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的购买正在等待批准（购买前询问）。批准后 WheelClick 会自动解锁，你无需在这里进行其他操作。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的購買正在等待批准（購買前詢問）。批准後 WheelClick 會自動解鎖，你無需在這裡進行其他操作。"
           }
         }
       }

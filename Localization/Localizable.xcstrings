@@ -8171,6 +8171,101 @@
         }
       }
     },
+    "Clicking the mouse itself with three fingers, and the other Magic Mouse gestures, are in the version downloaded from wheelclick.app. Reading a Magic Mouse's fingers needs access macOS grants only outside the App Store sandbox, and that version runs there.": {
+      "comment": "Alert text in the App Store version, first paragraph, shown once when a Magic Mouse is connected: the Magic Mouse gestures are in the version downloaded from the website, and why. 'wheelclick.app' is the website, keep it as is",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Klick mit drei Fingern auf die Maus selbst und die anderen Magic Mouse-Gesten sind in der Version, die du von wheelclick.app lädst. Die Finger einer Magic Mouse zu lesen braucht Zugriff, den macOS nur außerhalb der App Store-Sandbox gewährt, und dort läuft diese Version."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hacer clic en el propio ratón con tres dedos, y los demás gestos del Magic Mouse, están en la versión que se descarga de wheelclick.app. Leer los dedos en un Magic Mouse requiere un acceso que macOS solo concede fuera del sandbox del App Store, y esa versión funciona ahí."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hacer clic en el propio mouse con tres dedos, y los demás gestos del Magic Mouse, están en la versión que se descarga de wheelclick.app. Leer los dedos en un Magic Mouse requiere un acceso que macOS solo concede fuera del sandbox del App Store, y esa versión funciona ahí."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cliquer sur la souris elle-même avec trois doigts, et les autres gestes Magic Mouse, se trouvent dans la version téléchargée sur wheelclick.app. Lire les doigts d’une Magic Mouse demande un accès que macOS n’accorde qu’en dehors de la sandbox de l’App Store, et c’est là que cette version fonctionne."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il clic con tre dita sul mouse stesso, e gli altri gesti del Magic Mouse, sono nella versione scaricata da wheelclick.app. Leggere le dita su un Magic Mouse richiede un accesso che macOS concede solo fuori dalla sandbox dell’App Store, ed è lì che quella versione funziona."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "マウス本体を3本指でクリックする操作をはじめ、Magic Mouseのジェスチャはwheelclick.appからダウンロードする版にあります。Magic Mouseの指を読むには、macOSがApp Storeのサンドボックス外でしか与えないアクセスが必要で、その版はサンドボックス外で動作します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마우스 자체를 세 손가락으로 클릭하는 제스처와 다른 Magic Mouse 제스처는 wheelclick.app에서 다운로드하는 버전에 있습니다. Magic Mouse의 손가락을 읽으려면 macOS가 App Store 샌드박스 밖에서만 허용하는 접근이 필요하며, 그 버전은 샌드박스 밖에서 실행됩니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kliknięcie samej myszy trzema palcami i pozostałe gesty Magic Mouse są w wersji pobieranej z wheelclick.app. Odczyt palców na Magic Mouse wymaga dostępu, którego macOS udziela tylko poza piaskownicą App Store, i właśnie tam działa ta wersja."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clicar no próprio mouse com três dedos, e os outros gestos do Magic Mouse, estão na versão baixada de wheelclick.app. Ler os dedos em um Magic Mouse exige um acesso que o macOS só concede fora da sandbox da App Store, e é ali que essa versão roda."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нажатие на саму мышь тремя пальцами и остальные жесты Magic Mouse есть в версии, загруженной с wheelclick.app. Чтобы читать пальцы на Magic Mouse, нужен доступ, который macOS дает только вне песочницы App Store, а та версия работает именно там."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Farenin kendisine üç parmakla tıklamak ve diğer Magic Mouse hareketleri, wheelclick.app’ten indirilen sürümde. Magic Mouse’un parmaklarını okumak, macOS’in yalnızca App Store Sandbox’ı dışında verdiği bir erişim gerektirir ve o sürüm orada çalışır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Клацання по самій миші трьома пальцями та інші жести Magic Mouse є у версії, завантаженій з wheelclick.app. Щоб читати пальці на Magic Mouse, потрібен доступ, який macOS дає лише поза пісочницею App Store, а та версія працює саме там."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bấm lên chính con chuột bằng ba ngón tay, cùng các cử chỉ Magic Mouse khác, có trong phiên bản tải về từ wheelclick.app. Đọc ngón tay trên Magic Mouse cần quyền truy cập mà macOS chỉ cấp ngoài sandbox của App Store, và phiên bản đó chạy ở đó."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用三指点按鼠标本身以及其他妙控鼠标手势，都在从 wheelclick.app 下载的版本中。读取妙控鼠标的手指需要 macOS 仅在 App Store 沙盒之外才授予的权限，而那个版本正是在沙盒之外运行。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用三指按一下滑鼠本身以及其他巧控滑鼠手勢，都在從 wheelclick.app 下載的版本中。讀取巧控滑鼠的手指需要 macOS 只在 App Store 沙盒之外才授予的權限，而那個版本正是在沙盒之外執行。"
+          }
+        }
+      }
+    },
     "Close Window": {
       "comment": "Window menu command that closes the front window",
       "localizations": {
@@ -13720,6 +13815,196 @@
         }
       }
     },
+    "In this version, hold %@ for a middle click on the mouse, during the trial and with the full version. Every trackpad gesture works exactly as before.": {
+      "comment": "Alert text in the App Store version, second paragraph of the Magic Mouse notice, during the free trial. The argument is a feature name, e.g. 'fn+Click'",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In dieser Version ist „%@“ der Mittelklick auf der Maus, während der Testphase und mit der Vollversion. Jede Trackpad-Geste funktioniert genau wie zuvor."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En esta versión, %@ hace un clic central en el ratón, durante la prueba y con la versión completa. Todos los gestos del trackpad funcionan exactamente igual que antes."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En esta versión, %@ hace un clic central en el mouse, durante la prueba y con la versión completa. Todos los gestos del trackpad funcionan exactamente igual que antes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans cette version, %@ fait un clic central sur la souris, pendant l’essai et avec la version complète. Chaque geste du trackpad fonctionne exactement comme avant."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In questa versione, %@ fa un clic centrale sul mouse, durante la prova e con la versione completa. Ogni gesto del trackpad funziona esattamente come prima."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このバージョンでは、%@でマウスの中クリックができます。トライアル中もフル版でも使えます。トラックパッドのジェスチャはすべてこれまでどおり動きます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 버전에서는 %@ 제스처로 마우스에서 가운데 클릭을 할 수 있습니다. 체험 기간에도, 정식 버전에서도 마찬가지입니다. 모든 트랙패드 제스처는 이전과 똑같이 작동합니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "W tej wersji %@ daje kliknięcie środkowym przyciskiem na myszy, w okresie próbnym i w pełnej wersji. Każdy gest na gładziku działa dokładnie jak dotąd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nesta versão, %@ faz um clique central no mouse, durante o teste e na versão completa. Todo gesto do trackpad funciona exatamente como antes."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В этой версии %@ дает средний клик на мыши, в пробный период и в полной версии. Все жесты трекпада работают ровно как прежде."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu sürümde %@ farede orta tıklama yapar; deneme süresinde de tam sürümde de. Her izleme dörtgeni hareketi tam olarak eskisi gibi çalışır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У цій версії %@ дає середнє клацання на миші, у пробний період і в повній версії. Кожен жест на трекпеді працює як і раніше."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trong phiên bản này, %@ là bấm chuột giữa trên chuột, trong thời gian dùng thử và ở phiên bản đầy đủ. Mọi cử chỉ bàn di chuột hoạt động y như trước."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在此版本中，%@可在鼠标上进行中键点按，试用期间和完整版中均可。所有触控板手势也和以前完全一样。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在此版本中，%@可在滑鼠上進行中鍵點按，試用期間和完整版中皆可。所有觸控式軌跡板手勢也和以前完全一樣。"
+          }
+        }
+      }
+    },
+    "In this version, hold %@ for a middle click on the mouse; it is part of the full version, and your trial has ended. Every trackpad gesture works exactly as before.": {
+      "comment": "Alert text in the App Store version, second paragraph of the Magic Mouse notice, after the free trial ended. The argument is a feature name, e.g. 'fn+Click'",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In dieser Version ist „%@“ der Mittelklick auf der Maus; er gehört zur Vollversion, und deine Testphase ist beendet. Jede Trackpad-Geste funktioniert genau wie zuvor."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En esta versión, %@ hace un clic central en el ratón; forma parte de la versión completa, y tu prueba ha terminado. Todos los gestos del trackpad funcionan exactamente igual que antes."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En esta versión, %@ hace un clic central en el mouse; forma parte de la versión completa, y tu prueba terminó. Todos los gestos del trackpad funcionan exactamente igual que antes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans cette version, %@ fait un clic central sur la souris ; il fait partie de la version complète, et votre essai est terminé. Chaque geste du trackpad fonctionne exactement comme avant."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In questa versione, %@ fa un clic centrale sul mouse; fa parte della versione completa, e la tua prova è terminata. Ogni gesto del trackpad funziona esattamente come prima."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このバージョンでは、%@でマウスの中クリックができます。これはフル版の機能で、トライアルは終了しました。トラックパッドのジェスチャはすべてこれまでどおり動きます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 버전에서는 %@ 제스처로 마우스에서 가운데 클릭을 할 수 있습니다. 이 기능은 정식 버전에 포함되며, 체험 기간은 끝났습니다. 모든 트랙패드 제스처는 이전과 똑같이 작동합니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "W tej wersji %@ daje kliknięcie środkowym przyciskiem na myszy; to część pełnej wersji, a twój okres próbny minął. Każdy gest na gładziku działa dokładnie jak dotąd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nesta versão, %@ faz um clique central no mouse; ele faz parte da versão completa, e seu teste terminou. Todo gesto do trackpad funciona exatamente como antes."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В этой версии %@ дает средний клик на мыши; это часть полной версии, а пробный период закончился. Все жесты трекпада работают ровно как прежде."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu sürümde %@ farede orta tıklama yapar; tam sürüme dahildir ve deneme süreniz bitti. Her izleme dörtgeni hareketi tam olarak eskisi gibi çalışır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У цій версії %@ дає середнє клацання на миші; це частина повної версії, а ваш пробний період завершився. Кожен жест на трекпеді працює як і раніше."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trong phiên bản này, %@ là bấm chuột giữa trên chuột; tính năng này thuộc phiên bản đầy đủ, và thời gian thử của bạn đã hết. Mọi cử chỉ bàn di chuột hoạt động y như trước."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在此版本中，%@可在鼠标上进行中键点按；它属于完整版，而你的试用已结束。所有触控板手势也和以前完全一样。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在此版本中，%@可在滑鼠上進行中鍵點按；它屬於完整版，而你的試用已結束。所有觸控式軌跡板手勢也和以前完全一樣。"
+          }
+        }
+      }
+    },
     "In-app purchases aren't allowed on this Mac or Apple Account, so the App Store refused. Nothing was charged.": {
       "comment": "Buy window error, App Store version: in-app purchases are restricted (Screen Time or a managed Mac)",
       "localizations": {
@@ -15785,97 +16070,97 @@
         }
       }
     },
-    "Learn More…": {
-      "comment": "Alert button that opens a web page explaining why Magic Mouse gestures are unavailable\nMenu item in the Magic Mouse submenu (App Store version) that opens a web page explaining why its touch gestures are missing",
+    "Learn More at wheelclick.app…": {
+      "comment": "Button in the App Store version (alert and Magic Mouse submenu) that opens a web page explaining where the Magic Mouse gestures are. 'wheelclick.app' is the website, keep it as is",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Weitere Infos…"
+            "value": "Weitere Infos auf wheelclick.app…"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Más información…"
+            "value": "Más información en wheelclick.app…"
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Más información…"
+            "value": "Más información en wheelclick.app…"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "En savoir plus…"
+            "value": "En savoir plus sur wheelclick.app…"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scopri di più…"
+            "value": "Scopri di più su wheelclick.app…"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "詳しい情報…"
+            "value": "wheelclick.appで詳しく見る…"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "더 알아보기…"
+            "value": "wheelclick.app에서 더 알아보기…"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Więcej informacji…"
+            "value": "Więcej informacji na wheelclick.app…"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Saiba Mais…"
+            "value": "Saiba Mais em wheelclick.app…"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Подробнее…"
+            "value": "Подробнее на wheelclick.app…"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Daha Fazla Bilgi…"
+            "value": "wheelclick.app’te Daha Fazla Bilgi…"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Докладніше…"
+            "value": "Докладніше на wheelclick.app…"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tìm hiểu thêm…"
+            "value": "Tìm hiểu thêm tại wheelclick.app…"
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "了解更多…"
+            "value": "在 wheelclick.app 上了解更多…"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "進一步了解…"
+            "value": "在 wheelclick.app 上進一步了解…"
           }
         }
       }
@@ -16731,97 +17016,192 @@
         }
       }
     },
-    "Magic Mouse gestures aren't in this version": {
-      "comment": "Alert title in the App Store version, shown once when a Magic Mouse is connected",
+    "Magic Mouse gestures come with the version from wheelclick.app": {
+      "comment": "Alert title in the App Store version, shown once when a Magic Mouse is connected. 'wheelclick.app' is the website, keep it as is",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Magic Mouse-Gesten gibt es in dieser Version nicht"
+            "value": "Magic Mouse-Gesten gibt es in der Version von wheelclick.app"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Los gestos del Magic Mouse no están en esta versión"
+            "value": "Los gestos del Magic Mouse vienen con la versión de wheelclick.app"
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "Los gestos del Magic Mouse no están en esta versión"
+            "value": "Los gestos del Magic Mouse vienen con la versión de wheelclick.app"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Les gestes Magic Mouse ne sont pas dans cette version"
+            "value": "Les gestes Magic Mouse sont dans la version de wheelclick.app"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "I gesti del Magic Mouse non sono in questa versione"
+            "value": "I gesti del Magic Mouse sono nella versione di wheelclick.app"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "このバージョンにMagic Mouseのジェスチャはありません"
+            "value": "Magic Mouseのジェスチャはwheelclick.app版にあります"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "이 버전에는 Magic Mouse 제스처가 없습니다"
+            "value": "Magic Mouse 제스처는 wheelclick.app 버전에 있습니다"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "W tej wersji nie ma gestów Magic Mouse"
+            "value": "Gesty Magic Mouse są w wersji z wheelclick.app"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Os gestos do Magic Mouse não estão nesta versão"
+            "value": "Os gestos do Magic Mouse vêm na versão de wheelclick.app"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "В этой версии нет жестов Magic Mouse"
+            "value": "Жесты Magic Mouse есть в версии с wheelclick.app"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Magic Mouse hareketleri bu sürümde yok"
+            "value": "Magic Mouse hareketleri wheelclick.app sürümünde"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Жестів Magic Mouse у цій версії немає"
+            "value": "Жести Magic Mouse є у версії з wheelclick.app"
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Cử chỉ Magic Mouse không có trong phiên bản này"
+            "value": "Cử chỉ Magic Mouse có trong phiên bản từ wheelclick.app"
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "此版本不含妙控鼠标手势"
+            "value": "妙控鼠标手势由 wheelclick.app 上的版本提供"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "此版本不含巧控滑鼠手勢"
+            "value": "巧控滑鼠手勢由 wheelclick.app 上的版本提供"
+          }
+        }
+      }
+    },
+    "Magic Mouse gestures come with the version from wheelclick.app. On this mouse, %@ is the middle click.": {
+      "comment": "Gray line at the bottom of the welcome tour, App Store version, shown once a Magic Mouse is connected. The argument is a feature name, e.g. 'fn+Click'. 'wheelclick.app' is the website, keep it as is",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic Mouse-Gesten gibt es in der Version von wheelclick.app. Auf dieser Maus ist „%@“ der Mittelklick."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los gestos del Magic Mouse vienen con la versión de wheelclick.app. En este ratón, %@ es el clic central."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los gestos del Magic Mouse vienen con la versión de wheelclick.app. En este mouse, %@ es el clic central."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les gestes Magic Mouse sont dans la version de wheelclick.app. Sur cette souris, %@ fait le clic central."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I gesti del Magic Mouse sono nella versione di wheelclick.app. Su questo mouse, il clic centrale è %@."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic Mouseのジェスチャはwheelclick.app版にあります。このマウスでは、%@が中クリックです。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic Mouse 제스처는 wheelclick.app 버전에 있습니다. 이 마우스에서는 %@ 제스처가 가운데 클릭입니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gesty Magic Mouse są w wersji z wheelclick.app. Na tej myszy kliknięcie środkowym przyciskiem to %@."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os gestos do Magic Mouse vêm na versão de wheelclick.app. Neste mouse, o clique central é %@."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жесты Magic Mouse есть в версии с wheelclick.app. На этой мыши средний клик дает %@."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Magic Mouse hareketleri wheelclick.app sürümünde. Bu farede orta tıklama %@ ile yapılır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жести Magic Mouse є у версії з wheelclick.app. На цій миші середнє клацання дає %@."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cử chỉ Magic Mouse có trong phiên bản từ wheelclick.app. Trên chuột này, %@ là bấm chuột giữa."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "妙控鼠标手势由 wheelclick.app 上的版本提供。在这只鼠标上，%@就是中键点按。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "巧控滑鼠手勢由 wheelclick.app 上的版本提供。在這隻滑鼠上，%@就是中鍵點按。"
           }
         }
       }
@@ -19676,97 +20056,97 @@
         }
       }
     },
-    "On any mouse, your Magic Mouse included, %@ is a middle click.": {
-      "comment": "Alert text after answering 'I need it for a mouse', App Store version; the argument is a feature name, e.g. fn+Click",
+    "On this mouse, %@ is a middle click. Clicking its surface with three fingers, and the other Magic Mouse gestures, come with the version downloaded from wheelclick.app.": {
+      "comment": "Alert text after answering 'I need it for a mouse', App Store version, on a Mac with a Magic Mouse: fn+Click works here, the touch gestures are in the version downloaded from the website. The argument is a feature name, e.g. fn+Click. 'wheelclick.app' is the website, keep it as is",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Auf jeder Maus, deine Magic Mouse eingeschlossen, ist „%@“ ein Mittelklick."
+            "value": "Auf dieser Maus ist „%@“ ein Mittelklick. Der Klick mit drei Fingern auf ihre Oberfläche und die anderen Magic Mouse-Gesten sind in der Version, die du von wheelclick.app lädst."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "En cualquier ratón, incluido tu Magic Mouse, %@ es un clic central."
+            "value": "En este ratón, %@ es un clic central. Hacer clic en su superficie con tres dedos, y los demás gestos del Magic Mouse, vienen con la versión que se descarga de wheelclick.app."
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "En cualquier mouse, incluido tu Magic Mouse, %@ es un clic central."
+            "value": "En este mouse, %@ es un clic central. Hacer clic en su superficie con tres dedos, y los demás gestos del Magic Mouse, vienen con la versión que se descarga de wheelclick.app."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sur n’importe quelle souris, votre Magic Mouse comprise, %@ fait un clic central."
+            "value": "Sur cette souris, %@ fait un clic central. Cliquer sur sa surface avec trois doigts, et les autres gestes Magic Mouse, sont dans la version téléchargée sur wheelclick.app."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Su qualsiasi mouse, Magic Mouse incluso, %@ è un clic centrale."
+            "value": "Su questo mouse, %@ è un clic centrale. Il clic sulla superficie con tre dita, e gli altri gesti del Magic Mouse, sono nella versione scaricata da wheelclick.app."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "Magic Mouseを含むどのマウスでも、%@は中クリックです。"
+            "value": "このマウスでは、%@が中クリックです。表面を3本指でクリックする操作などのMagic Mouseのジェスチャは、wheelclick.appからダウンロードする版にあります。"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "Magic Mouse를 포함한 어떤 마우스에서나 %@ 제스처가 가운데 클릭이 됩니다."
+            "value": "이 마우스에서는 %@ 제스처가 가운데 클릭이 됩니다. 표면을 세 손가락으로 클릭하는 제스처와 다른 Magic Mouse 제스처는 wheelclick.app에서 다운로드하는 버전에 있습니다."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Na każdej myszy, także Magic Mouse, %@ to kliknięcie środkowym przyciskiem."
+            "value": "Na tej myszy %@ to kliknięcie środkowym przyciskiem. Kliknięcie jej powierzchni trzema palcami i pozostałe gesty Magic Mouse są w wersji pobieranej z wheelclick.app."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Em qualquer mouse, incluindo seu Magic Mouse, %@ é um clique central."
+            "value": "Neste mouse, %@ é um clique central. Clicar na superfície com três dedos, e os outros gestos do Magic Mouse, vêm na versão baixada de wheelclick.app."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "На любой мыши, включая Magic Mouse, %@ — это средний клик."
+            "value": "На этой мыши %@ работает как средний клик. Нажатие на ее поверхность тремя пальцами и другие жесты Magic Mouse есть в версии, загруженной с wheelclick.app."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Magic Mouse’unuz dahil herhangi bir farede %@ bir orta tıklamadır."
+            "value": "Bu farede %@ bir orta tıklamadır. Yüzeyine üç parmakla tıklamak ve diğer Magic Mouse hareketleri, wheelclick.app’ten indirilen sürümde."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "На будь-якій миші, і на вашій Magic Mouse теж, %@ — це середнє клацання."
+            "value": "На цій миші %@ працює як середнє клацання. Клацання по її поверхні трьома пальцями та інші жести Magic Mouse є у версії, завантаженій з wheelclick.app."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Trên bất kỳ chuột nào, kể cả Magic Mouse của bạn, %@ là bấm chuột giữa."
+            "value": "Trên chuột này, %@ là bấm chuột giữa. Bấm lên mặt chuột bằng ba ngón tay, cùng các cử chỉ Magic Mouse khác, có trong phiên bản tải về từ wheelclick.app."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "在任何鼠标上，包括你的妙控鼠标，%@都是中键点按。"
+            "value": "在这只鼠标上，%@就是中键点按。用三指点按其表面以及其他妙控鼠标手势，都在从 wheelclick.app 下载的版本中。"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "在任何滑鼠上，包括你的巧控滑鼠，%@都是中鍵點按。"
+            "value": "在這隻滑鼠上，%@就是中鍵點按。用三指按一下其表面以及其他巧控滑鼠手勢，都在從 wheelclick.app 下載的版本中。"
           }
         }
       }
@@ -19862,6 +20242,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "在巧控滑鼠上，用三指按一下其表面。在任何滑鼠上，%@都是中鍵點按。"
+          }
+        }
+      }
+    },
+    "On your Magic Mouse, the purchase keeps %@ working.": {
+      "comment": "Buy window, App Store version, shown on a Mac with a Magic Mouse: buying keeps fn+Click working on the mouse. The argument is a feature name, e.g. 'fn+Click'",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit dem Kauf funktioniert „%@“ auf deiner Magic Mouse weiter."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con la compra, %@ sigue funcionando en tu Magic Mouse."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con la compra, %@ sigue funcionando en tu Magic Mouse."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avec l’achat, %@ continue de fonctionner sur votre Magic Mouse."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con l’acquisto, %@ continua a funzionare sul tuo Magic Mouse."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "購入すると、Magic Mouseで%@を引き続き使えます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "구입하면 Magic Mouse에서 %@ 제스처를 계속 사용할 수 있습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dzięki zakupowi %@ nadal działa na twojej Magic Mouse."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com a compra, %@ continua funcionando no seu Magic Mouse."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С покупкой %@ продолжит работать на вашей Magic Mouse."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Satın alımla %@, Magic Mouse’unuzda çalışmaya devam eder."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "З покупкою %@ і далі працюватиме на вашій Magic Mouse."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Khi mua, %@ tiếp tục hoạt động trên Magic Mouse của bạn."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "购买后，%@可在你的妙控鼠标上继续使用。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "購買後，%@可在你的巧控滑鼠上繼續使用。"
           }
         }
       }
@@ -21663,101 +22138,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "結束它，你的手勢就交回 macOS 自己處理。\n\n執行的代價微乎其微：閒置時的耗電只有選單列時鐘的 1/20。實測，不是估算。"
-          }
-        }
-      }
-    },
-    "Reading a Magic Mouse's fingers needs access macOS grants only\noutside the App Store sandbox — so its touch gestures aren't in\nthis version. %@ works on any mouse, this one included.": {
-      "comment": "Gray caption in the Magic Mouse submenu of the App Store version. The placeholder is a gesture name such as 'fn+Click'. Line breaks are manual (the menu widens rather than wraps)",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Finger einer Magic Mouse zu lesen braucht Zugriff, den macOS nur\naußerhalb der App Store-Sandbox gewährt – ihre Touch-Gesten fehlen\ndaher in dieser Version. „%@“ funktioniert auf jeder Maus, auch dieser."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leer los dedos en un Magic Mouse requiere un acceso que macOS solo concede\nfuera del sandbox del App Store, así que sus gestos táctiles no están en\nesta versión. %@ funciona en cualquier ratón, este incluido."
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leer los dedos en un Magic Mouse requiere un acceso que macOS solo concede\nfuera del sandbox del App Store, así que sus gestos táctiles no están en\nesta versión. %@ funciona en cualquier mouse, este incluido."
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lire les doigts d’une Magic Mouse demande un accès que macOS n’accorde\nqu’en dehors de la sandbox de l’App Store — ses gestes tactiles ne sont\ndonc pas dans cette version. %@ fonctionne sur toute souris, celle-ci comprise."
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leggere le dita su un Magic Mouse richiede un accesso che macOS concede solo\nfuori dalla sandbox dell’App Store, quindi i suoi gesti tattili non sono\nin questa versione. %@ funziona su qualsiasi mouse, questo incluso."
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Magic Mouseの指を読むには、macOSがApp Storeのサンドボックス外でしか\n与えないアクセスが必要なため、このバージョンにそのタッチジェスチャはありません。\n%@はこのマウスを含め、どのマウスでも使えます。"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Magic Mouse의 손가락을 읽으려면 macOS가 App Store 샌드박스 밖에서만\n허용하는 접근이 필요합니다. 그래서 이 버전에는 터치 제스처가 없습니다.\n%@ 제스처는 이 마우스를 포함해 어떤 마우스에서나 작동합니다."
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Odczyt palców na Magic Mouse wymaga dostępu, którego macOS udziela tylko\npoza piaskownicą App Store — dlatego jej gesty dotykowe nie są\nw tej wersji. %@ działa na każdej myszy, także na tej."
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ler os dedos em um Magic Mouse exige um acesso que o macOS só concede\nfora da sandbox da App Store — por isso seus gestos de toque não estão\nnesta versão. %@ funciona em qualquer mouse, incluindo este."
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Чтобы читать пальцы на Magic Mouse, нужен доступ, который macOS дает\nтолько вне песочницы App Store — поэтому ее жестов касания в этой\nверсии нет. %@ работает на любой мыши, включая эту."
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Magic Mouse’un parmaklarını okumak, macOS’in yalnızca App Store\nSandbox’ı dışında verdiği bir erişim gerektirir — bu yüzden dokunma\nhareketleri bu sürümde yok. %@ bu fare dahil her farede çalışır."
-          }
-        },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Щоб читати пальці на Magic Mouse, потрібен доступ, який macOS дає лише\nпоза пісочницею App Store — тож її сенсорних жестів у цій версії немає.\n%@ працює на будь-якій миші, і на цій також."
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Đọc ngón tay trên Magic Mouse cần quyền truy cập mà macOS chỉ cấp\nngoài sandbox của App Store — nên các cử chỉ chạm của nó không có\ntrong phiên bản này. %@ hoạt động trên mọi chuột, kể cả chuột này."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "读取妙控鼠标的手指需要 macOS 仅在 App Store 沙盒之外\n才授予的权限，所以此版本不含它的触控手势。\n%@在任何鼠标上都可用，包括这一只。"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "讀取巧控滑鼠的手指需要 macOS 只在 App Store 沙盒之外\n才授予的權限，所以此版本不含它的觸控手勢。\n%@在任何滑鼠上都可用，包括這一隻。"
           }
         }
       }
@@ -27838,6 +28218,101 @@
         }
       }
     },
+    "Three-finger click and the other Magic Mouse gestures\ncome with the version downloaded from wheelclick.app.\n%@ works on any mouse, this one included.": {
+      "comment": "Gray caption in the Magic Mouse submenu of the App Store version: the mouse's touch gestures are in the version downloaded from the website, and fn+Click works on any mouse. The placeholder is a gesture name such as 'fn+Click'. 'wheelclick.app' is the website, keep it as is. Line breaks are manual (the menu widens rather than wraps): keep the three lines of similar length",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klick mit drei Fingern und weitere Magic Mouse-Gesten\nsind in der Version, die du von wheelclick.app lädst.\n„%@“ funktioniert auf jeder Maus, auch dieser."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El clic con tres dedos y los demás gestos del Magic Mouse\nvienen con la versión que se descarga de wheelclick.app.\n%@ funciona en cualquier ratón, este incluido."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El clic con tres dedos y los demás gestos del Magic Mouse\nvienen con la versión que se descarga de wheelclick.app.\n%@ funciona en cualquier mouse, este incluido."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le clic à trois doigts et les autres gestes Magic Mouse\nsont dans la version téléchargée sur wheelclick.app.\n%@ fonctionne sur toute souris, celle-ci comprise."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il clic con tre dita e gli altri gesti del Magic Mouse\nsono nella versione scaricata da wheelclick.app.\n%@ funziona su qualsiasi mouse, questo incluso."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3本指クリックなどのMagic Mouseのジェスチャは、\nwheelclick.appからダウンロードする版にあります。\n%@はこのマウスを含め、どのマウスでも使えます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "세 손가락 클릭과 다른 Magic Mouse 제스처는\nwheelclick.app에서 다운로드하는 버전에 있습니다.\n%@ 제스처는 이 마우스를 포함해 어떤 마우스에서나 작동합니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kliknięcie trzema palcami i pozostałe gesty Magic Mouse\nsą w wersji pobieranej z wheelclick.app.\n%@ działa na każdej myszy, także na tej."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O clique com três dedos e os outros gestos do Magic Mouse\nvêm na versão baixada de wheelclick.app.\n%@ funciona em qualquer mouse, incluindo este."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нажатие тремя пальцами и другие жесты Magic Mouse\nесть в версии, загруженной с wheelclick.app.\n%@ работает на любой мыши, включая эту."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Üç parmakla tıklama ve diğer Magic Mouse hareketleri\nwheelclick.app’ten indirilen sürümde.\n%@ bu fare dahil her farede çalışır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Клацання трьома пальцями та інші жести Magic Mouse\nє у версії, завантаженій з wheelclick.app.\n%@ працює на будь-якій миші, і на цій також."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bấm ba ngón tay và các cử chỉ Magic Mouse khác\ncó trong phiên bản tải về từ wheelclick.app.\n%@ hoạt động trên mọi chuột, kể cả chuột này."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "三指点按和其他妙控鼠标手势\n在从 wheelclick.app 下载的版本中提供。\n%@在任何鼠标上都可用，包括这一只。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "三指按一下和其他巧控滑鼠手勢\n在從 wheelclick.app 下載的版本中提供。\n%@在任何滑鼠上都可用，包括這一隻。"
+          }
+        }
+      }
+    },
     "Three-finger click is unavailable right now. Hover it to see why.": {
       "comment": "Onboarding playground caption under the gesture chips when Three-finger click can't work; 'it' = that chip",
       "localizations": {
@@ -30849,101 +31324,6 @@
         }
       }
     },
-    "WheelClick reads a trackpad's fingers through macOS itself. A Magic Mouse's fingers are not on offer there — reaching them needs access macOS grants only outside the App Store sandbox.\n\nNothing else is affected: %@ works on this mouse, and every trackpad gesture works exactly as before.": {
-      "comment": "Alert text in the App Store version: Magic Mouse gestures are unavailable. The argument is a feature name, e.g. 'fn+Click'",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick liest die Finger eines Trackpads über macOS selbst. Die Finger einer Magic Mouse gibt es dort nicht – an sie heranzukommen braucht Zugriff, den macOS nur außerhalb der App Store-Sandbox gewährt.\n\nSonst ändert sich nichts: „%@“ funktioniert auf dieser Maus, und jede Trackpad-Geste funktioniert genau wie zuvor."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick lee los dedos en el trackpad a través del propio macOS. Los dedos en un Magic Mouse no se ofrecen ahí; llegar a ellos requiere un acceso que macOS solo concede fuera del sandbox del App Store.\n\nNada más se ve afectado: %@ funciona en este ratón, y todos los gestos del trackpad funcionan exactamente igual que antes."
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick lee los dedos en el trackpad a través del propio macOS. Los dedos en un Magic Mouse no se ofrecen ahí; llegar a ellos requiere un acceso que macOS solo concede fuera del sandbox del App Store.\n\nNada más se ve afectado: %@ funciona en este mouse, y todos los gestos del trackpad funcionan exactamente igual que antes."
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick lit les doigts sur un trackpad à travers macOS lui-même. Ceux d’une Magic Mouse n’y sont pas proposés — les atteindre demande un accès que macOS n’accorde qu’en dehors de la sandbox de l’App Store.\n\nRien d’autre n’est affecté : %@ fonctionne sur cette souris, et chaque geste du trackpad fonctionne exactement comme avant."
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick legge le dita sul trackpad attraverso macOS stesso. Le dita su un Magic Mouse lì non ci sono: per raggiungerle serve un accesso che macOS concede solo fuori dalla sandbox dell’App Store.\n\nNient’altro cambia: %@ funziona su questo mouse, e ogni gesto del trackpad funziona esattamente come prima."
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClickはトラックパッドの指をmacOS自身を通して読み取ります。Magic Mouseの指はそこにはなく、読むにはmacOSがApp Storeのサンドボックス外でしか与えないアクセスが必要です。\n\nほかには何も影響しません：%@はこのマウスで使え、トラックパッドのジェスチャはすべてこれまでどおり動きます。"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick은 트랙패드의 손가락을 macOS를 통해 읽습니다. Magic Mouse의 손가락은 거기에서 제공되지 않습니다. 그에 접근하려면 macOS가 App Store 샌드박스 밖에서만 허용하는 접근이 필요합니다.\n\n다른 것은 영향을 받지 않습니다: %@ 제스처는 이 마우스에서 작동하며, 모든 트랙패드 제스처는 이전과 똑같이 작동합니다."
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick odczytuje palce na gładziku poprzez sam macOS. Palców na Magic Mouse tam nie ma — dotarcie do nich wymaga dostępu, którego macOS udziela tylko poza piaskownicą App Store.\n\nNic innego nie ucierpiało: %@ działa na tej myszy, a każdy gest na gładziku działa dokładnie jak dotąd."
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "O WheelClick lê os dedos no trackpad por meio do próprio macOS. Os dedos em um Magic Mouse não estão disponíveis ali — alcançá-los exige um acesso que o macOS só concede fora da sandbox da App Store.\n\nNada mais é afetado: %@ funciona neste mouse, e todo gesto do trackpad funciona exatamente como antes."
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick читает пальцы на трекпаде через саму macOS. Пальцы на Magic Mouse там не предлагаются — доступ к ним macOS дает только вне песочницы App Store.\n\nБольше ничего не затронуто: %@ работает на этой мыши, а все жесты трекпада — ровно как прежде."
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick, izleme dörtgenindeki parmakları macOS’in kendisi aracılığıyla okur. Magic Mouse’un parmakları orada sunulmaz — onlara ulaşmak, macOS’in yalnızca App Store Sandbox’ı dışında verdiği bir erişim gerektirir.\n\nBaşka hiçbir şey etkilenmez: %@ bu farede çalışır ve her izleme dörtgeni hareketi tam olarak eskisi gibi çalışır."
-          }
-        },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick читає пальці на трекпеді через саму macOS. Пальців на Magic Mouse там немає — щоб дістатися до них, потрібен доступ, який macOS дає лише поза пісочницею App Store.\n\nБільше нічого не змінюється: %@ працює на цій миші, а кожен жест на трекпеді — як і раніше."
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick đọc ngón tay trên bàn di chuột thông qua chính macOS. Ngón tay trên Magic Mouse không được cung cấp ở đó — để chạm tới cần quyền truy cập mà macOS chỉ cấp ngoài sandbox của App Store.\n\nKhông gì khác bị ảnh hưởng: %@ hoạt động trên chuột này, và mọi cử chỉ bàn di chuột hoạt động y như trước."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick 通过 macOS 本身读取触控板上的手指。妙控鼠标的手指不在其列——要读取它们，需要 macOS 仅在 App Store 沙盒之外才授予的权限。\n\n其他一切不受影响：%@在这只鼠标上可用，所有触控板手势也和以前完全一样。"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WheelClick 透過 macOS 本身讀取觸控式軌跡板上的手指。巧控滑鼠的手指不在其列，要讀取它們，需要 macOS 只在 App Store 沙盒之外才授予的權限。\n\n其他一切不受影響：%@在這隻滑鼠上可用，所有觸控式軌跡板手勢也和以前完全一樣。"
-          }
-        }
-      }
-    },
     "WheelClick turns three gestures into a middle click. Try one right here — close a tab, or open a link in a new one.": {
       "localizations": {
         "de": {
@@ -31999,6 +32379,101 @@
         }
       }
     },
+    "With a license: %@, Force Click, Middle-Drag, Autoscroll, Three-Finger Swipe, and per-app rules.": {
+      "comment": "Buy window, App Store version: the paid features. The argument is a feature name, e.g. 'fn+Click'",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Lizenz: %@, Kräftiger Klick, Ziehen mit mittlerer Taste, Automatisches Scrollen, Streichen mit drei Fingern und Regeln pro App."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con una licencia: %@, Clic fuerte, Arrastre central, Desplazamiento automático, Deslizamiento con tres dedos y reglas por app."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con una licencia: %@, Clic fuerte, Arrastre central, Desplazamiento automático, Deslizamiento con tres dedos y reglas por app."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avec une licence : %@, Clic forcé, Glissement au bouton central, Défilement automatique, Balayage à trois doigts et règles par app."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Con una licenza: %@, Clic deciso, Trascinamento con tasto centrale, Scorrimento automatico, Scorrimento con tre dita e regole per app."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ライセンスで使えるもの：%@、強めのクリック、中ボタンドラッグ、オートスクロール、3本指スワイプ、アプリごとのルール。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "라이선스 구입 시: %@, 세게 클릭, 가운데 드래그, 자동 스크롤, 세 손가락 쓸어넘기기, 앱별 규칙."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Z licencją: %@, Kliknięcie mocne, Przeciąganie środkowym przyciskiem, Autoprzewijanie, Przesunięcie trzema palcami i reguły dla poszczególnych aplikacji."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Com uma licença: %@, Clique Forte, Arrasto Central, Rolagem Automática, Deslize com Três Dedos e regras por app."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С лицензией: %@, сильное нажатие, перетягивание средней кнопкой, автопрокрутка, смахивание тремя пальцами и правила для отдельных приложений."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lisansla: %@, Kuvvetli Tıklama, Orta Tuşla Sürükleme, Otomatik Kaydırma, Üç Parmakla Kaydırma ve uygulama bazlı kurallar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "З ліцензією: %@, Сильне клацання, Перетягування середньою кнопкою, Автопрокручування, Змах трьома пальцями та правила для окремих програм."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Với giấy phép: %@, Bấm mạnh, Kéo chuột giữa, Tự động cuộn, Vuốt bằng ba ngón tay và quy tắc theo từng ứng dụng."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "许可证包含：%@、用力点按、中键拖移、自动滚动、三指轻扫和按 App 设置的规则。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授權包含：%@、用力長按、中鍵拖移、自動捲動、三指滑動和依 App 設定的規則。"
+          }
+        }
+      }
+    },
     "You can change this anytime from the menu.": {
       "localizations": {
         "de": {
@@ -32374,6 +32849,196 @@
           "stringUnit": {
             "state": "translated",
             "value": "付款已成功，但金鑰送達的時間異常地久。它也在你的電子郵件裡，把它貼到 App 中即可。"
+          }
+        }
+      }
+    },
+    "Your purchase here covers that version too.": {
+      "comment": "Alert text in the App Store version for someone who bought the app: the purchase also covers the version downloaded from the website, which the sentence before it names",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Kauf hier gilt auch für jene Version."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra aquí también cubre esa versión."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra aquí también cubre esa versión."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Votre achat ici couvre aussi cette version-là."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo acquisto qui vale anche per quella versione."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ここでの購入はその版にも適用されます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여기서 구입한 내역은 그 버전에도 적용됩니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twój zakup tutaj obejmuje też tamtą wersję."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua compra aqui também vale para aquela versão."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка здесь распространяется и на ту версию."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buradaki satın alımınız o sürümü de kapsar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка тут поширюється й на ту версію."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giao dịch mua của bạn ở đây cũng áp dụng cho phiên bản đó."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你在这里的购买同样适用于那个版本。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你在這裡的購買同樣適用於那個版本。"
+          }
+        }
+      }
+    },
+    "Your purchase here covers that version too. In this version, hold %@ for a middle click on the mouse. Every trackpad gesture works exactly as before.": {
+      "comment": "Alert text in the App Store version, second paragraph of the Magic Mouse notice, for someone who bought the app. 'That version' = the version downloaded from the website. The argument is a feature name, e.g. 'fn+Click'",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dein Kauf hier gilt auch für jene Version. In dieser Version ist „%@“ der Mittelklick auf der Maus. Jede Trackpad-Geste funktioniert genau wie zuvor."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra aquí también cubre esa versión. En esta versión, %@ hace un clic central en el ratón. Todos los gestos del trackpad funcionan exactamente igual que antes."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tu compra aquí también cubre esa versión. En esta versión, %@ hace un clic central en el mouse. Todos los gestos del trackpad funcionan exactamente igual que antes."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Votre achat ici couvre aussi cette version-là. Dans cette version, %@ fait un clic central sur la souris. Chaque geste du trackpad fonctionne exactement comme avant."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tuo acquisto qui vale anche per quella versione. In questa versione, %@ fa un clic centrale sul mouse. Ogni gesto del trackpad funziona esattamente come prima."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ここでの購入はその版にも適用されます。このバージョンでは、%@でマウスの中クリックができます。トラックパッドのジェスチャはすべてこれまでどおり動きます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여기서 구입한 내역은 그 버전에도 적용됩니다. 이 버전에서는 %@ 제스처로 마우스에서 가운데 클릭을 할 수 있습니다. 모든 트랙패드 제스처는 이전과 똑같이 작동합니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twój zakup tutaj obejmuje też tamtą wersję. W tej wersji %@ daje kliknięcie środkowym przyciskiem na myszy. Każdy gest na gładziku działa dokładnie jak dotąd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sua compra aqui também vale para aquela versão. Nesta versão, %@ faz um clique central no mouse. Todo gesto do trackpad funciona exatamente como antes."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка здесь распространяется и на ту версию. В этой версии %@ дает средний клик на мыши. Все жесты трекпада работают ровно как прежде."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buradaki satın alımınız o sürümü de kapsar. Bu sürümde %@ farede orta tıklama yapar. Her izleme dörtgeni hareketi tam olarak eskisi gibi çalışır."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ваша покупка тут поширюється й на ту версію. У цій версії %@ дає середнє клацання на миші. Кожен жест на трекпеді працює як і раніше."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giao dịch mua của bạn ở đây cũng áp dụng cho phiên bản đó. Trong phiên bản này, %@ là bấm chuột giữa trên chuột. Mọi cử chỉ bàn di chuột hoạt động y như trước."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你在这里的购买同样适用于那个版本。在此版本中，%@可在鼠标上进行中键点按。所有触控板手势也和以前完全一样。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你在這裡的購買同樣適用於那個版本。在此版本中，%@可在滑鼠上進行中鍵點按。所有觸控式軌跡板手勢也和以前完全一樣。"
           }
         }
       }

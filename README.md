@@ -4,6 +4,10 @@
 
 **The middle click your Mac never had.** Three-finger click or tap, fn+click, or Force Click — on the trackpad and the Magic Mouse.
 
+<a href="https://wheelclick.app/?ref=community-readme">
+  <img src="media/wheelclick-loop.webp" width="800" alt="Three-finger taps on the trackpad open a link in a new Safari tab and close it, then a three-finger middle-drag orbits a 3D model">
+</a>
+
 [![Latest release](https://img.shields.io/github/v/release/artginzburg/WheelClick-Community?label=latest&color=0071e3)](https://github.com/artginzburg/WheelClick-Community/releases/latest)
 [![macOS 12+](https://img.shields.io/badge/macOS-12%2B-lightgrey)](https://wheelclick.app/?ref=community-readme)
 

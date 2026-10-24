@@ -27555,6 +27555,101 @@
         }
       }
     },
+    "Three-Finger Click and Three-Finger Tap on the trackpad are free, forever. A license adds fn+Click, Force Click, plugins and per-app rules — one payment, no subscription.": {
+      "comment": "Hover card of the 'Buy WheelClick…' menu item in the App Store version; 'Three-Finger Click', 'Three-Finger Tap', 'fn+Click', 'Force Click' are gesture names",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„Klick mit drei Fingern“ und „Tippen mit drei Fingern“ auf dem Trackpad sind kostenlos, für immer. Mit Lizenz dazu: fn+Klick, Kräftiger Klick, Plug-ins und Regeln pro App – eine Zahlung, kein Abo."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Clic con tres dedos y el Toque con tres dedos en el trackpad son gratis, para siempre. Una licencia añade fn+clic, Clic fuerte, plugins y reglas por app: un solo pago, sin suscripción."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Clic con tres dedos y el Toque con tres dedos en el trackpad son gratis, para siempre. Una licencia agrega fn+clic, Clic fuerte, plugins y reglas por app: un solo pago, sin suscripción."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le Clic à trois doigts et le Toucher à trois doigts sur le trackpad sont gratuits, pour toujours. Une licence ajoute fn+Clic, le Clic forcé, les modules et les règles par app — un seul paiement, pas d’abonnement."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clic con tre dita e Tocco con tre dita sul trackpad sono gratis, per sempre. Una licenza aggiunge fn+Clic, Clic deciso, plugin e regole per app: un solo pagamento, nessun abbonamento."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トラックパッドの3本指クリックと3本指タップは永久に無料です。ライセンスでfn+クリック、強めのクリック、プラグイン、アプリごとのルールが加わります。一度の支払いで、サブスクリプションはありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "트랙패드의 세 손가락 클릭과 세 손가락 탭은 영원히 무료입니다. 라이선스를 구입하면 fn+클릭, 세게 클릭, 플러그인, 앱별 규칙이 추가됩니다. 한 번 결제, 구독 없음."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kliknięcie trzema palcami i Stuknięcie trzema palcami na gładziku są bezpłatne, na zawsze. Licencja dodaje fn+kliknięcie, Kliknięcie mocne, wtyczki i reguły dla poszczególnych aplikacji — jedna płatność, bez subskrypcji."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique com Três Dedos e Toque com Três Dedos no trackpad são grátis, para sempre. Uma licença adiciona fn+Clique, Clique Forte, plugins e regras por app — pagamento único, sem assinatura."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нажатие тремя пальцами и касание тремя пальцами на трекпаде бесплатны, навсегда. Лицензия добавляет fn+клик, сильное нажатие, плагины и правила для отдельных приложений — один платеж, без подписки."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İzleme dörtgeninde Üç Parmakla Tıklama ve Üç Parmakla Dokunma sonsuza dek ücretsiz. Lisansla fn+Tıklama, Kuvvetli Tıklama, eklentiler ve uygulama bazlı kurallar eklenir — tek ödeme, abonelik yok."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Клацання трьома пальцями й Торкання трьома пальцями на трекпеді безкоштовні назавжди. Ліцензія додає fn+клацання, Сильне клацання, плагіни та правила для окремих програм — один платіж, без підписки."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bấm bằng ba ngón tay và Chạm bằng ba ngón tay trên bàn di chuột là miễn phí, vĩnh viễn. Giấy phép bổ sung fn+Bấm, Bấm mạnh, plugin và quy tắc theo từng ứng dụng — thanh toán một lần, không đăng ký định kỳ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "触控板上的三指点按和三指轻点永远免费。许可证增加 fn+点按、用力点按、插件和按 App 设置的规则——一次付款，没有订阅。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "觸控式軌跡板上的三指按一下和三指點一下永遠免費。授權新增 fn+按一下、用力長按、外掛模組和依 App 設定的規則，一次付費，沒有訂閱。"
+          }
+        }
+      }
+    },
     "Three-Finger Click and Three-Finger Tap on the trackpad are free, forever. Everything else in the menu is an optional one-time purchase.": {
       "localizations": {
         "de": {

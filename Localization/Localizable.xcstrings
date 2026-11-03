@@ -10640,6 +10640,101 @@
         }
       }
     },
+    "Done": {
+      "comment": "Button that closes the Middle-Drag offer",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminé"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fine"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完了"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "완료"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gotowe"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitti"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xong"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
     "During your trial you used %@. A license keeps it working.": {
       "comment": "Buy window, above the price: what one paid feature was used for during the trial. The argument is e.g. 'Force Click 25 times'; 'it' = that feature",
       "localizations": {
@@ -20531,6 +20626,101 @@
         }
       }
     },
+    "One macOS Setting Is in the Way": {
+      "comment": "Middle-Drag offer, second step, title: the macOS setting Three Finger Drag blocks the tap-hold the person just asked to turn on",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine macOS-Einstellung steht im Weg"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un ajuste de macOS se interpone"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un ajuste de macOS se interpone"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un réglage de macOS fait obstacle"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un’impostazione di macOS è d’intralcio"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOSの設定が1つ邪魔をしています"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS 설정 하나가 걸림돌입니다"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przeszkadza jedno ustawienie macOS"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Um ajuste do macOS está atrapalhando"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мешает одна настройка macOS"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir macOS ayarı engel oluyor"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заважає одне налаштування macOS"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Một cài đặt của macOS đang cản trở"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有一项 macOS 设置挡在前面"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有一項 macOS 設定擋在前面"
+          }
+        }
+      }
+    },
     "One-time purchase — yours forever.": {
       "comment": "Hover card of the trial menu item that opens the purchase window",
       "localizations": {
@@ -22995,6 +23185,101 @@
         }
       }
     },
+    "Rest three fingers on the trackpad, hold still for a moment, then slide.": {
+      "comment": "Middle-Drag offer, last step: how to use tap-hold",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lege drei Finger auf das Trackpad, halte einen Moment still und ziehe dann."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apoya tres dedos en el trackpad, quédate quieto un momento y desliza."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apoya tres dedos en el trackpad, quédate quieto un momento y desliza."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Posez trois doigts sur le trackpad, restez immobile un instant, puis faites glisser."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appoggia tre dita sul trackpad, resta fermo un attimo, poi scorri."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トラックパッドに3本の指を置き、少し静止してからスライドします。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "트랙패드에 세 손가락을 올리고 잠깐 멈춘 다음 밀어 보세요."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Połóż trzy palce na gładziku, przytrzymaj chwilę bez ruchu, a potem przesuń."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apoie três dedos no trackpad, fique parado um instante e deslize."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Положите три пальца на трекпад, замрите на мгновение и ведите."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Üç parmağınızı izleme dörtgenine koyun, bir an sabit tutun, sonra kaydırın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Покладіть три пальці на трекпед, завмріть на мить і ведіть."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đặt ba ngón tay lên bàn di chuột, giữ yên một chút rồi trượt."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "把三根手指搭在触控板上，静止片刻，然后滑动。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "把三根手指放在觸控式軌跡板上，靜止片刻，然後滑動。"
+          }
+        }
+      }
+    },
     "Restore Purchases": {
       "localizations": {
         "de": {
@@ -23654,6 +23939,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "Shift"
+          }
+        }
+      }
+    },
+    "Show Me the Setting": {
+      "comment": "Middle-Drag offer, second step: open the macOS Trackpad Options where Three Finger Drag is turned off",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zur Einstellung"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar el ajuste"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar el ajuste"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher le réglage"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostra l’impostazione"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定を表示"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 보기"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokaż ustawienie"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar o ajuste"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать настройку"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayarı göster"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показати налаштування"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiển thị cài đặt"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示该设置"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "顯示該設定"
           }
         }
       }
@@ -25468,6 +25848,101 @@
         }
       }
     },
+    "Tap-hold works now": {
+      "comment": "Middle-Drag offer, last step: Three Finger Drag went off and the tap-hold is active",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap-Hold funktioniert jetzt"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantener pulsado ya funciona"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantener presionado ya funciona"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le maintien fonctionne"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Il tap prolungato ora funziona"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タップ長押しが使えるようになりました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이제 탭 홀드가 작동합니다"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przytrzymanie już działa"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tocar e segurar já funciona"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удержание теперь работает"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dokunup tutma artık çalışıyor"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Утримання тепер працює"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chạm giữ đã hoạt động"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "轻点并按住现在可以用了"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點一下並按住現在可以用了"
+          }
+        }
+      }
+    },
     "Ten trackpad tricks you already knew": {
       "comment": "Onboarding playground: title of a pretend article link the user can middle-click (a playful headline)",
       "localizations": {
@@ -26702,6 +27177,101 @@
         }
       }
     },
+    "The setting is in System Settings › Accessibility › Pointer Control › Trackpad Options: choose any dragging style other than Three Finger Drag.": {
+      "comment": "Middle-Drag offer, second step: where the setting is; use Apple's exact names for System Settings, Accessibility, Pointer Control, Trackpad Options and Three Finger Drag in this language",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Einstellung findest du unter Systemeinstellungen › Bedienungshilfen › Zeigersteuerung › Trackpad-Optionen: Wähle einen anderen Bewegungsstil als „Mit drei Fingern bewegen“."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El ajuste está en Ajustes del Sistema › Accesibilidad › Control del puntero › Opciones del trackpad: elige cualquier estilo de arrastre que no sea “Arrastrar con 3 dedos”."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El ajuste está en Configuración del Sistema › Accesibilidad › Control del puntero › Opciones del trackpad: elige cualquier estilo de arrastre que no sea “Arrastrar con 3 dedos”."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le réglage se trouve dans Réglages Système › Accessibilité › Contrôle du pointeur › Options du trackpad : choisissez un style de glissement autre que « Faire glisser avec 3 doigts »."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’impostazione è in Impostazioni di Sistema › Accessibilità › Controllo puntatore › Opzioni trackpad: scegli uno stile di trascinamento diverso da “Trascina con tre dita”."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定は「システム設定」›「アクセシビリティ」›「ポインタコントロール」›「トラックパッドオプション」にあります。ドラッグのスタイルを「3本指のドラッグ」以外にしてください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정은 시스템 설정 › 손쉬운 사용 › 포인터 제어기 › 트랙패드 옵션에 있습니다. 드래그 스타일을 ‘세 손가락으로 드래그하기’가 아닌 다른 것으로 고르세요."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ustawienie jest w Ustawieniach systemowych › Dostępność › Sterowanie wskaźnikiem › Opcje gładzika: wybierz dowolny styl przeciągania inny niż Przeciąganie trzema palcami."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O ajuste fica em Ajustes do Sistema › Acessibilidade › Controle do Cursor › Opções do Trackpad: escolha qualquer estilo de arrasto que não seja Arrastar com três dedos."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Настройка находится в «Системные настройки» › «Универсальный доступ» › «Управление указателем» › «Параметры трекпада»: выберите любой стиль перетягивания, кроме «Перетягивание тремя пальцами»."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayar Sistem Ayarları › Erişilebilirlik › İmleç Denetimi › İzleme Dörtgeni Seçenekleri’nde: Üç Parmakla Sürükleme dışında herhangi bir sürükleme stili seçin."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Налаштування — у «Системні параметри» › «Доступність» › «Керування курсором» › «Параметри трекпеда»: виберіть будь-який стиль перетягування, крім «Перетягування трьома пальцями»."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cài đặt nằm ở Cài đặt hệ thống › Trợ năng › Điều khiển con trỏ › Tùy chọn bàn di chuột: chọn kiểu kéo bất kỳ khác “Kéo bằng ba ngón tay”."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这个设置在“系统设置”›“辅助功能”›“指针控制”›“触控板选项”中：把拖移样式改成“三指拖移”以外的任意一项。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這個設定在「系統設定」›「輔助使用」›「指標控制」›「觸控式軌跡板選項」中：把拖移樣式改成「三指拖移」以外的任何一項。"
+          }
+        }
+      }
+    },
     "The store had a hiccup — try again in a minute.": {
       "comment": "Buy window error for an unexpected license activation failure",
       "localizations": {
@@ -27361,6 +27931,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "此金鑰已在允許的最多數量的 Mac 上啟用。請在客戶入口網站中停用一台，然後再試一次。"
+          }
+        }
+      }
+    },
+    "Three Finger Drag is on: macOS drags windows and selects text when three fingers rest on the trackpad and move. Tap-hold is that same move, so while Three Finger Drag is on, macOS takes it first and tap-hold waits.": {
+      "comment": "Middle-Drag offer, second step: why the macOS setting Three Finger Drag (keep Apple's exact setting name) blocks tap-hold",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "„Mit drei Fingern bewegen“ ist aktiv: macOS zieht Fenster und markiert Text, wenn drei Finger auf dem Trackpad liegen und sich bewegen. Tap-Hold ist genau diese Bewegung – solange „Mit drei Fingern bewegen“ aktiv ist, nimmt macOS sie zuerst, und Tap-Hold wartet."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“Arrastrar con 3 dedos” está activado: macOS arrastra ventanas y selecciona texto cuando tres dedos se apoyan en el trackpad y se mueven. Mantener pulsado es ese mismo movimiento, así que mientras “Arrastrar con 3 dedos” esté activado, macOS lo toma primero y Mantener pulsado espera."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“Arrastrar con 3 dedos” está activado: macOS arrastra ventanas y selecciona texto cuando tres dedos se apoyan en el trackpad y se mueven. Mantener presionado es ese mismo movimiento, así que mientras “Arrastrar con 3 dedos” esté activado, macOS lo toma primero y Mantener presionado espera."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "« Faire glisser avec 3 doigts » est activé : macOS déplace les fenêtres et sélectionne du texte quand trois doigts posés sur le trackpad bougent. Le maintien est ce même geste : tant que « Faire glisser avec 3 doigts » est activé, macOS le prend en premier et le maintien attend."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“Trascina con tre dita” è attivo: macOS sposta le finestre e seleziona il testo quando tre dita appoggiate sul trackpad si muovono. Il tap prolungato è lo stesso movimento, quindi finché “Trascina con tre dita” è attivo macOS lo prende per primo e il tap prolungato aspetta."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「3本指のドラッグ」がオンです。トラックパッドに3本の指を置いて動かすと、macOSがウインドウを移動したりテキストを選択したりします。タップ長押しはまさにこの動きなので、「3本指のドラッグ」がオンのあいだはmacOSが先に受け取り、タップ長押しは待機します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "‘세 손가락으로 드래그하기’가 켜져 있습니다. 트랙패드에 세 손가락을 올리고 움직이면 macOS가 윈도우를 옮기고 텍스트를 선택합니다. 탭 홀드도 바로 그 동작이라, ‘세 손가락으로 드래그하기’가 켜져 있는 동안에는 macOS가 먼저 가져가고 탭 홀드는 기다립니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przeciąganie trzema palcami jest włączone: macOS przesuwa okna i zaznacza tekst, gdy trzy palce spoczywają na gładziku i się ruszają. Przytrzymanie to właśnie ten ruch, więc dopóki Przeciąganie trzema palcami jest włączone, macOS przejmuje go pierwszy, a przytrzymanie czeka."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Arrastar com três dedos está ativado: o macOS arrasta janelas e seleciona texto quando três dedos apoiados no trackpad se movem. Tocar e segurar é esse mesmo movimento, então enquanto o Arrastar com três dedos estiver ativado, o macOS o pega primeiro e o tocar e segurar espera."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Включено «Перетягивание тремя пальцами»: когда три пальца лежат на трекпаде и двигаются, macOS таскает окна и выделяет текст. Удержание — это то же самое движение, поэтому, пока «Перетягивание тремя пальцами» включено, macOS забирает его первым, а удержание ждёт."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Üç Parmakla Sürükleme açık: İzleme dörtgenine konan üç parmak hareket edince macOS pencereleri sürükler ve metin seçer. Dokunup tutma da aynı hareket; bu yüzden Üç Parmakla Sürükleme açıkken macOS onu önce alır ve dokunup tutma bekler."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Увімкнено «Перетягування трьома пальцями»: коли три пальці лежать на трекпеді й рухаються, macOS тягне вікна й виділяє текст. Утримання — це той самий рух, тож поки «Перетягування трьома пальцями» увімкнено, macOS забирає його першим, а утримання чекає."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“Kéo bằng ba ngón tay” đang bật: khi ba ngón tay đặt trên bàn di chuột và di chuyển, macOS kéo cửa sổ và chọn văn bản. Chạm giữ chính là cử chỉ đó, nên khi “Kéo bằng ba ngón tay” còn bật, macOS sẽ nhận trước và chạm giữ phải chờ."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“三指拖移”已打开：三根手指搭在触控板上移动时，macOS 会拖动窗口、选择文本。轻点并按住正是同一个动作，所以只要“三指拖移”开着，macOS 就会先接走它，轻点并按住只能等待。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「三指拖移」已開啟：三根手指放在觸控式軌跡板上移動時，macOS 會拖移視窗、選取文字。點一下並按住正是同一個動作，所以只要「三指拖移」開著，macOS 就會先接走它，點一下並按住只能等待。"
           }
         }
       }
@@ -30273,6 +30938,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "音量"
+          }
+        }
+      }
+    },
+    "Waiting for Three Finger Drag to go off…": {
+      "comment": "Middle-Drag offer, after opening System Settings: the window watches the setting and moves on by itself",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warten, bis „Mit drei Fingern bewegen“ aus ist …"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando a que se desactive “Arrastrar con 3 dedos”…"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando a que se desactive “Arrastrar con 3 dedos”…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En attente de la désactivation de « Faire glisser avec 3 doigts »…"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In attesa che “Trascina con tre dita” si disattivi…"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「3本指のドラッグ」がオフになるのを待っています…"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "‘세 손가락으로 드래그하기’가 꺼지기를 기다리는 중…"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Czekam, aż Przeciąganie trzema palcami się wyłączy…"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aguardando o Arrastar com três dedos ser desativado…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ждём, пока «Перетягивание тремя пальцами» выключится…"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Üç Parmakla Sürükleme’nin kapanması bekleniyor…"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чекаємо, поки «Перетягування трьома пальцями» вимкнеться…"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đang chờ “Kéo bằng ba ngón tay” tắt…"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在等待“三指拖移”关闭…"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在等待「三指拖移」關閉…"
           }
         }
       }
@@ -35033,6 +35793,196 @@
           "stringUnit": {
             "state": "translated",
             "value": "兩指點一下"
+          }
+        }
+      }
+    },
+    "•  Keep it, and hold %@ and drag instead: that pans and orbits right now.": {
+      "comment": "Middle-Drag offer, second step, first choice; the value is the fn+Click gesture name, e.g. 'fn+Click'",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Beibehalten und stattdessen %@ halten und ziehen: Das schwenkt und dreht sofort."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Mantenerlo y usar %@ y arrastrar: eso desplaza y orbita ya mismo."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Mantenerlo y usar %@ y arrastrar: eso desplaza y orbita ahora mismo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Le garder, et maintenir %@ en faisant glisser : cela déplace et fait pivoter tout de suite."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Tenerlo e usare %@ trascinando: così sposti e ruoti subito."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  そのままにして、代わりに%@を押したままドラッグ：今すぐパンや回転ができます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  그대로 두고 대신 %@ 누른 채 드래그: 지금 바로 이동과 회전이 됩니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Zostawić je i zamiast tego przytrzymać %@ i przeciągać: to przesuwa i obraca od razu."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Mantê-lo e usar %@ arrastando: isso move e gira agora mesmo."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Оставить его и вместо этого зажать %@ и вести: так вид двигается и вращается уже сейчас."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Açık bırakın ve onun yerine %@ basılı tutup sürükleyin: bu hemen kaydırır ve döndürür."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Залишити його й натомість затиснути %@ і вести: так вид рухається й обертається вже зараз."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Giữ nguyên và thay vào đó giữ %@ rồi kéo: cách này xoay và di chuyển được ngay."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  保留它，改用按住%@拖动：现在就能平移和旋转视图。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  保留它，改用按住%@拖移：現在就能平移和環繞視角。"
+          }
+        }
+      }
+    },
+    "•  Switch it off, and tap-hold works the moment you do. Windows then drag with a click and hold, as on most Macs.": {
+      "comment": "Middle-Drag offer, second step, second choice: turning off Three Finger Drag",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Ausschalten, und Tap-Hold funktioniert sofort. Fenster ziehst du dann mit Klicken und Halten, wie auf den meisten Macs."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Desactivarlo, y Mantener pulsado funciona en cuanto lo hagas. Las ventanas se arrastran entonces haciendo clic y manteniendo, como en la mayoría de los Mac."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Desactivarlo, y Mantener presionado funciona en cuanto lo hagas. Las ventanas se arrastran entonces haciendo clic y manteniendo, como en la mayoría de las Mac."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Le désactiver : le maintien fonctionne aussitôt. Les fenêtres se déplacent alors avec un clic maintenu, comme sur la plupart des Mac."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Disattivarlo: il tap prolungato funziona subito. Le finestre si spostano poi con un clic tenuto premuto, come sulla maggior parte dei Mac."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  オフにすると、すぐにタップ長押しが使えます。ウインドウはほとんどのMacと同じく、クリックしたまま動かして移動します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  끄면 탭 홀드가 바로 작동합니다. 윈도우는 대부분의 Mac처럼 클릭한 채로 끌어 옮기면 됩니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Wyłączyć je: przytrzymanie zadziała od razu. Okna przesuwa się wtedy kliknięciem z przytrzymaniem, jak na większości Maców."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Desativá-lo: o tocar e segurar funciona na hora. As janelas passam a ser arrastadas clicando e segurando, como na maioria dos Macs."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Выключить его, и удержание заработает сразу. Окна тогда перетаскиваются, зажав кнопку, как на большинстве Mac."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Kapatın; dokunup tutma o anda çalışır. Pencereler o zaman çoğu Mac’te olduğu gibi tıklayıp basılı tutarak sürüklenir."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Вимкнути його, і утримання запрацює одразу. Вікна тоді перетягуються, затиснувши кнопку, як на більшості Mac."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  Tắt nó đi, chạm giữ sẽ hoạt động ngay. Khi đó, cửa sổ được kéo bằng cách bấm và giữ, như trên hầu hết các máy Mac."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  关掉它，轻点并按住立刻就能用。之后拖动窗口改为按住点按拖动，和大多数 Mac 一样。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "•  關掉它，點一下並按住馬上就能用。之後拖移視窗改為按住按鍵拖移，和大多數 Mac 一樣。"
           }
         }
       }

@@ -1,0 +1,56 @@
+# Puts the "Patron" label on issues and pull requests opened by WheelClick's
+# patrons, so they can be seen in the thread and answered first. A patron is
+# anyone on the public wall at https://wheelclick.app/patrons whose entry names
+# a GitHub username; patrons who keep their entry private get no label.
+#
+# Runs when an issue or pull request is opened, and once a day over the open
+# issues, so a patron who joins the wall later is labeled on what they already
+# opened. No checkout: nothing from a pull request is ever run, which is what
+# makes pull_request_target safe here.
+name: Patron label
+
+on:
+  issues:
+    types: [opened, reopened]
+  pull_request_target:
+    types: [opened, reopened]
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Label patrons' threads
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          EVENT: ${{ github.event_name }}
+          NUMBER: ${{ github.event.issue.number || github.event.pull_request.number }}
+          AUTHOR: ${{ github.event.issue.user.login || github.event.pull_request.user.login }}
+        run: |
+          set -euo pipefail
+          patrons=$(curl -fsS --retry 3 https://wheelclick.app/api/v1/patrons \
+            | jq -r '.patrons[] | .github // empty | ascii_downcase')
+          if [ -z "$patrons" ]; then echo "No patrons with a GitHub username yet."; exit 0; fi
+
+          gh label create Patron -R "$REPO" --color 8250df \
+            --description "Opened by a WheelClick patron (wheelclick.app/patrons)" 2>/dev/null || true
+
+          is_patron() { grep -qxF "$(printf '%s' "$1" | tr '[:upper:]' '[:lower:]')" <<<"$patrons"; }
+          label() { gh api "repos/$REPO/issues/$1/labels" -f 'labels[]=Patron' >/dev/null; echo "Labeled #$1 ($2)"; }
+
+          if [ "$EVENT" = schedule ] || [ "$EVENT" = workflow_dispatch ]; then
+            gh issue list -R "$REPO" --state open --limit 500 --json number,author \
+              --jq '.[] | "\(.number) \(.author.login)"' \
+              | while read -r number login; do
+                  if is_patron "$login"; then label "$number" "$login"; fi
+                done
+          elif is_patron "$AUTHOR"; then
+            label "$NUMBER" "$AUTHOR"
+          fi

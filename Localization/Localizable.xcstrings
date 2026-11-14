@@ -11142,192 +11142,192 @@
         }
       }
     },
-    "Couldn't reach the store to activate — check your connection and click the activation link again.": {
+    "Couldn't reach the store to activate. If a firewall such as Little Snitch blocks WheelClick, allow wheelclick.app and api.polar.sh; otherwise check your connection. Then click the activation link again.": {
       "comment": "Purchase window error after an activation link failed: no connection to the license store",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Der Store war zum Aktivieren nicht erreichbar – prüfe deine Verbindung und klicke den Aktivierungslink erneut."
+            "value": "Der Store war zum Aktivieren nicht erreichbar. Falls eine Firewall wie Little Snitch WheelClick blockiert, erlaube wheelclick.app und api.polar.sh; sonst prüfe deine Verbindung. Klicke dann den Aktivierungslink erneut."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se pudo conectar con la tienda para activar; comprueba tu conexión y vuelve a hacer clic en el enlace de activación."
+            "value": "No se pudo conectar con la tienda para activar. Si un cortafuegos como Little Snitch bloquea WheelClick, permite wheelclick.app y api.polar.sh; si no, comprueba tu conexión. Luego vuelve a hacer clic en el enlace de activación."
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se pudo conectar con la tienda para activar; revisa tu conexión y vuelve a hacer clic en el enlace de activación."
+            "value": "No se pudo conectar con la tienda para activar. Si un firewall como Little Snitch bloquea WheelClick, permite wheelclick.app y api.polar.sh; si no, revisa tu conexión. Luego vuelve a hacer clic en el enlace de activación."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Impossible de joindre la boutique pour l’activation — vérifiez votre connexion et cliquez de nouveau sur le lien d’activation."
+            "value": "Impossible de joindre la boutique pour l’activation. Si un pare-feu comme Little Snitch bloque WheelClick, autorisez wheelclick.app et api.polar.sh ; sinon, vérifiez votre connexion. Puis cliquez de nouveau sur le lien d’activation."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Impossibile raggiungere lo store per l’attivazione: controlla la connessione e fai di nuovo clic sul link di attivazione."
+            "value": "Impossibile raggiungere lo store per l’attivazione. Se un firewall come Little Snitch blocca WheelClick, consenti wheelclick.app e api.polar.sh; altrimenti controlla la connessione. Poi fai di nuovo clic sul link di attivazione."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "ストアに接続できず、アクティベートできませんでした。接続を確認して、アクティベーションリンクをもう一度クリックしてください。"
+            "value": "ストアに接続できず、アクティベートできませんでした。Little Snitch などのファイアウォールが WheelClick をブロックしている場合は wheelclick.app と api.polar.sh を許可し、そうでなければ接続を確認してください。その後、アクティベーションリンクをもう一度クリックしてください。"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "활성화를 위해 스토어에 연결할 수 없습니다. 연결 상태를 확인하고 활성화 링크를 다시 클릭하십시오."
+            "value": "활성화를 위해 스토어에 연결할 수 없습니다. Little Snitch 같은 방화벽이 WheelClick을 차단하고 있다면 wheelclick.app과 api.polar.sh를 허용하고, 그렇지 않다면 연결 상태를 확인하십시오. 그런 다음 활성화 링크를 다시 클릭하십시오."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nie udało się połączyć ze sklepem, aby aktywować — sprawdź połączenie i kliknij link aktywacyjny ponownie."
+            "value": "Nie udało się połączyć ze sklepem, aby aktywować. Jeśli zapora, np. Little Snitch, blokuje WheelClick, zezwól na wheelclick.app i api.polar.sh; w przeciwnym razie sprawdź połączenie. Potem kliknij link aktywacyjny ponownie."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Não foi possível conectar à loja para ativar — verifique sua conexão e clique no link de ativação de novo."
+            "value": "Não foi possível conectar à loja para ativar. Se um firewall como o Little Snitch bloqueia o WheelClick, permita wheelclick.app e api.polar.sh; caso contrário, verifique sua conexão. Depois clique no link de ativação de novo."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Не удалось связаться с магазином для активации — проверьте соединение и нажмите ссылку активации еще раз."
+            "value": "Не удалось связаться с магазином для активации. Если файрвол вроде Little Snitch блокирует WheelClick, разрешите wheelclick.app и api.polar.sh; иначе проверьте соединение. Затем нажмите ссылку активации еще раз."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Etkinleştirme için mağazaya ulaşılamadı — bağlantınızı denetleyip etkinleştirme bağlantısına yeniden tıklayın."
+            "value": "Etkinleştirme için mağazaya ulaşılamadı. Little Snitch gibi bir güvenlik duvarı WheelClick'i engelliyorsa wheelclick.app ve api.polar.sh'a izin verin; aksi halde bağlantınızı denetleyin. Ardından etkinleştirme bağlantısına yeniden tıklayın."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Не вдалося зв’язатися з магазином для активації — перевірте з’єднання й клацніть посилання для активації ще раз."
+            "value": "Не вдалося зв’язатися з магазином для активації. Якщо файрвол на кшталт Little Snitch блокує WheelClick, дозвольте wheelclick.app і api.polar.sh; інакше перевірте з’єднання. Потім клацніть посилання для активації ще раз."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Không kết nối được với cửa hàng để kích hoạt — hãy kiểm tra kết nối rồi bấm lại liên kết kích hoạt."
+            "value": "Không kết nối được với cửa hàng để kích hoạt. Nếu tường lửa như Little Snitch đang chặn WheelClick, hãy cho phép wheelclick.app và api.polar.sh; nếu không, hãy kiểm tra kết nối. Rồi bấm lại liên kết kích hoạt."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "无法连接商店进行激活，请检查网络连接，然后再次点按激活链接。"
+            "value": "无法连接商店进行激活。如果 Little Snitch 等防火墙阻止了 WheelClick，请允许 wheelclick.app 和 api.polar.sh；否则请检查网络连接。然后再次点按激活链接。"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "無法連線至商店進行啟用，請檢查網路連線，然後再按一下啟用連結。"
+            "value": "無法連線至商店進行啟用。如果 Little Snitch 等防火牆封鎖了 WheelClick，請允許 wheelclick.app 和 api.polar.sh；否則請檢查網路連線。然後再按一下啟用連結。"
           }
         }
       }
     },
-    "Couldn't reach the store — check your connection and try again.": {
+    "Couldn't reach the store. If a firewall such as Little Snitch blocks WheelClick, allow api.polar.sh; otherwise check your connection. Then try again.": {
       "comment": "Buy window error when license activation fails for lack of network",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Der Store war nicht erreichbar – prüfe deine Verbindung und versuche es erneut."
+            "value": "Der Store war nicht erreichbar. Falls eine Firewall wie Little Snitch WheelClick blockiert, erlaube api.polar.sh; sonst prüfe deine Verbindung. Versuche es dann erneut."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se pudo conectar con la tienda; comprueba tu conexión e inténtalo de nuevo."
+            "value": "No se pudo conectar con la tienda. Si un cortafuegos como Little Snitch bloquea WheelClick, permite api.polar.sh; si no, comprueba tu conexión. Luego inténtalo de nuevo."
           }
         },
         "es-419": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se pudo conectar con la tienda; revisa tu conexión e inténtalo de nuevo."
+            "value": "No se pudo conectar con la tienda. Si un firewall como Little Snitch bloquea WheelClick, permite api.polar.sh; si no, revisa tu conexión. Luego inténtalo de nuevo."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Impossible de joindre la boutique — vérifiez votre connexion et réessayez."
+            "value": "Impossible de joindre la boutique. Si un pare-feu comme Little Snitch bloque WheelClick, autorisez api.polar.sh ; sinon, vérifiez votre connexion. Puis réessayez."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Impossibile raggiungere lo store: controlla la connessione e riprova."
+            "value": "Impossibile raggiungere lo store. Se un firewall come Little Snitch blocca WheelClick, consenti api.polar.sh; altrimenti controlla la connessione. Poi riprova."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "ストアに接続できませんでした。接続を確認して、もう一度お試しください。"
+            "value": "ストアに接続できませんでした。Little Snitch などのファイアウォールが WheelClick をブロックしている場合は api.polar.sh を許可し、そうでなければ接続を確認してください。その後、もう一度お試しください。"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "스토어에 연결할 수 없습니다. 연결 상태를 확인하고 다시 시도하십시오."
+            "value": "스토어에 연결할 수 없습니다. Little Snitch 같은 방화벽이 WheelClick을 차단하고 있다면 api.polar.sh를 허용하고, 그렇지 않다면 연결 상태를 확인하십시오. 그런 다음 다시 시도하십시오."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nie udało się połączyć ze sklepem — sprawdź połączenie i spróbuj ponownie."
+            "value": "Nie udało się połączyć ze sklepem. Jeśli zapora, np. Little Snitch, blokuje WheelClick, zezwól na api.polar.sh; w przeciwnym razie sprawdź połączenie. Potem spróbuj ponownie."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Não foi possível conectar à loja — verifique sua conexão e tente de novo."
+            "value": "Não foi possível conectar à loja. Se um firewall como o Little Snitch bloqueia o WheelClick, permita api.polar.sh; caso contrário, verifique sua conexão. Depois tente de novo."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Не удалось связаться с магазином — проверьте соединение и попробуйте еще раз."
+            "value": "Не удалось связаться с магазином. Если файрвол вроде Little Snitch блокирует WheelClick, разрешите api.polar.sh; иначе проверьте соединение. Затем попробуйте еще раз."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mağazaya ulaşılamadı — bağlantınızı denetleyip yeniden deneyin."
+            "value": "Mağazaya ulaşılamadı. Little Snitch gibi bir güvenlik duvarı WheelClick'i engelliyorsa api.polar.sh'a izin verin; aksi halde bağlantınızı denetleyin. Ardından yeniden deneyin."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Не вдалося зв’язатися з магазином — перевірте з’єднання й спробуйте ще раз."
+            "value": "Не вдалося зв’язатися з магазином. Якщо файрвол на кшталт Little Snitch блокує WheelClick, дозвольте api.polar.sh; інакше перевірте з’єднання. Потім спробуйте ще раз."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Không kết nối được với cửa hàng — hãy kiểm tra kết nối rồi thử lại."
+            "value": "Không kết nối được với cửa hàng. Nếu tường lửa như Little Snitch đang chặn WheelClick, hãy cho phép api.polar.sh; nếu không, hãy kiểm tra kết nối. Rồi thử lại."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "无法连接商店，请检查网络连接后重试。"
+            "value": "无法连接商店。如果 Little Snitch 等防火墙阻止了 WheelClick，请允许 api.polar.sh；否则请检查网络连接。然后重试。"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "無法連線至商店，請檢查網路連線後再試一次。"
+            "value": "無法連線至商店。如果 Little Snitch 等防火牆封鎖了 WheelClick，請允許 api.polar.sh；否則請檢查網路連線。然後再試一次。"
           }
         }
       }

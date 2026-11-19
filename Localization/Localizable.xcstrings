@@ -12851,6 +12851,101 @@
         }
       }
     },
+    "Drag WheelClick into the Applications folder, then open it from there.": {
+      "comment": "Alert text after the automatic move into the Applications folder failed: how to do it by hand",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ziehe WheelClick in den Ordner „Programme“ und öffne es dann von dort."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastra WheelClick a la carpeta Aplicaciones y ábrelo desde ahí."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arrastra WheelClick a la carpeta Aplicaciones y ábrelo desde ahí."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faites glisser WheelClick dans le dossier Applications, puis ouvrez-le depuis celui-ci."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trascina WheelClick nella cartella Applicazioni, poi aprilo da lì."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClickを“アプリケーション”フォルダにドラッグしてから、そこから開いてください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick을 응용 프로그램 폴더로 드래그한 다음 그곳에서 여십시오."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przeciągnij WheelClick do folderu Aplikacje, a potem otwórz go stamtąd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arraste o WheelClick para a pasta Aplicativos e abra-o de lá."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перетащите WheelClick в папку «Программы» и откройте его оттуда."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick’i Uygulamalar klasörüne sürükleyin, sonra oradan açın."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перетягніть WheelClick у папку «Програми» і відкрийте його звідти."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kéo WheelClick vào thư mục Ứng dụng, sau đó mở từ đó."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请将 WheelClick 拖到“应用程序”文件夹，然后从那里打开。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請將 WheelClick 拖到「應用程式」檔案夾，然後從那裡打開。"
+          }
+        }
+      }
+    },
     "During your trial you used %@. A license keeps it working.": {
       "comment": "Buy window, above the price: what one paid feature was used for during the trial. The argument is e.g. 'Force Click 25 times'; 'it' = that feature",
       "localizations": {
@@ -17067,6 +17162,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "在允許模式下，WheelClick 只在列出的 App 中運作。"
+          }
+        }
+      }
+    },
+    "In Applications, WheelClick keeps running after you eject the disk image, and keeps itself up to date.": {
+      "comment": "Alert text: why to move WheelClick from its disk image into the Applications folder",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In „Programme“ läuft WheelClick weiter, nachdem du das Image ausgeworfen hast, und hält sich selbst auf dem neuesten Stand."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En Aplicaciones, WheelClick sigue funcionando después de expulsar la imagen de disco y se mantiene actualizado solo."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En Aplicaciones, WheelClick sigue funcionando después de expulsar la imagen de disco y se mantiene actualizado solo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans Applications, WheelClick continue de fonctionner après l’éjection de l’image disque et se tient à jour tout seul."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In Applicazioni, WheelClick continua a funzionare dopo che hai espulso l’immagine disco e si mantiene aggiornato da solo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“アプリケーション”にあれば、ディスクイメージを取り出したあともWheelClickは動き続け、自動でアップデートされます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "응용 프로그램에 있으면 디스크 이미지를 추출한 후에도 WheelClick이 계속 실행되고 스스로 최신 상태를 유지합니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "W Aplikacjach WheelClick działa dalej po wysunięciu obrazu dysku i sam się aktualizuje."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Em Aplicativos, o WheelClick continua funcionando depois que você ejeta a imagem de disco e se mantém atualizado sozinho."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Из «Программ» WheelClick продолжит работать, когда вы извлечёте образ диска, и будет сам обновляться."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulamalar’da WheelClick, disk görüntüsünü çıkardıktan sonra da çalışmaya devam eder ve kendini güncel tutar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У «Програмах» WheelClick працюватиме й після того, як ви вилучите образ диска, і сам оновлюватиметься."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trong Ứng dụng, WheelClick vẫn chạy sau khi bạn đẩy ảnh đĩa ra và tự cập nhật."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放在“应用程序”中，推出磁盘映像后 WheelClick 仍会继续运行，并会自动保持最新。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放在「應用程式」中，退出磁碟映像檔後 WheelClick 仍會繼續執行，並會自動保持最新。"
           }
         }
       }
@@ -21981,6 +22171,196 @@
           "stringUnit": {
             "state": "translated",
             "value": "耗能中等"
+          }
+        }
+      }
+    },
+    "Move WheelClick to Applications?": {
+      "comment": "Alert title shown at launch when WheelClick runs straight from its downloaded disk image",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick in „Programme“ bewegen?"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Trasladar WheelClick a Aplicaciones?"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Mover WheelClick a Aplicaciones?"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer WheelClick dans Applications ?"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spostare WheelClick in Applicazioni?"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClickを“アプリケーション”に移動しますか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick을 응용 프로그램으로 이동하겠습니까?"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przenieść WheelClick do Aplikacji?"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover o WheelClick para Aplicativos?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Переместить WheelClick в «Программы»?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick Uygulamalar’a taşınsın mı?"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перемістити WheelClick у «Програми»?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Di chuyển WheelClick vào Ứng dụng?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要将 WheelClick 移到“应用程序”吗？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要將 WheelClick 移到「應用程式」嗎？"
+          }
+        }
+      }
+    },
+    "Move to Applications": {
+      "comment": "Alert button that copies WheelClick into the Applications folder and opens it from there",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In „Programme“ bewegen"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trasladar a Aplicaciones"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover a Aplicaciones"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer dans Applications"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sposta in Applicazioni"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“アプリケーション”に移動"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "응용 프로그램으로 이동"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Przenieś do Aplikacji"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mover para Aplicativos"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Переместить в «Программы»"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uygulamalar’a Taşı"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Перемістити у «Програми»"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Di chuyển vào Ứng dụng"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移到“应用程序”"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移到「應用程式」"
           }
         }
       }
@@ -37969,6 +38349,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "WheelClick 也會分享匿名使用統計資料以協助改進，不含個人資料。這個開關也在同一個選單裡，位於「關於 WheelClick」下。"
+          }
+        }
+      }
+    },
+    "WheelClick couldn’t move itself": {
+      "comment": "Alert title shown when copying WheelClick into the Applications folder failed",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick konnte sich nicht selbst bewegen"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick no ha podido trasladarse"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick no pudo moverse"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick n’a pas pu se déplacer"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick non è riuscito a spostarsi"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClickを移動できませんでした"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick을 이동할 수 없습니다"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick nie mógł się przenieść"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Não foi possível mover o WheelClick"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick не смог переместиться"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick kendini taşıyamadı"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick не вдалося перемістити"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick không thể tự di chuyển"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick 无法自行移动"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WheelClick 無法自行移動"
           }
         }
       }

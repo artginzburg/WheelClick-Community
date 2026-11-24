@@ -4813,6 +4813,101 @@
         }
       }
     },
+    "A trigger over a link or a tab clicks it instead, as the wheel click does on Windows: the link opens in a new tab, the tab closes. Anywhere else, autoscroll starts.": {
+      "comment": "Hover card of the 'Click Links and Tabs' switch under Plugins > Autoscroll",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über einem Link oder Tab klickt der Auslöser stattdessen, wie das Mausrad unter Windows: Der Link öffnet sich in einem neuen Tab, der Tab schließt sich. Überall sonst startet das automatische Scrollen."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre un enlace o una pestaña, el gesto hace clic en su lugar, como la rueda en Windows: el enlace se abre en una pestaña nueva y la pestaña se cierra. En cualquier otro sitio empieza el desplazamiento automático."
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre un enlace o una pestaña, el gesto hace clic en su lugar, como la rueda en Windows: el enlace se abre en una pestaña nueva y la pestaña se cierra. En cualquier otro lugar empieza el desplazamiento automático."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sur un lien ou un onglet, le geste clique à la place, comme la molette sous Windows : le lien s’ouvre dans un nouvel onglet, l’onglet se ferme. Partout ailleurs, le défilement automatique démarre."
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su un link o una scheda il gesto fa clic al suo posto, come la rotellina su Windows: il link si apre in una nuova scheda, la scheda si chiude. Altrove parte lo scorrimento automatico."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リンクやタブの上では、Windowsのホイールクリックと同じようにクリックになります。リンクは新しいタブで開き、タブは閉じます。それ以外の場所ではオートスクロールが始まります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "링크나 탭 위에서는 Windows의 휠 클릭처럼 클릭으로 동작합니다. 링크는 새 탭에서 열리고 탭은 닫힙니다. 그 밖의 곳에서는 자동 스크롤이 시작됩니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nad linkiem lub kartą gest zamiast tego klika, jak kółko w Windows: link otwiera się w nowej karcie, karta się zamyka. W każdym innym miejscu startuje autoprzewijanie."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sobre um link ou uma aba, o gesto clica em vez disso, como a roda do mouse no Windows: o link abre em uma nova aba e a aba fecha. Em qualquer outro lugar, a rolagem automática começa."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Над ссылкой или вкладкой жест вместо этого нажимает на неё, как колесо в Windows: ссылка открывается в новой вкладке, вкладка закрывается. В любом другом месте включается автопрокрутка."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bir bağlantının veya sekmenin üzerinde, Windows’taki tekerlek tıklaması gibi tıklar: bağlantı yeni sekmede açılır, sekme kapanır. Başka her yerde otomatik kaydırma başlar."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Над посиланням або вкладкою жест натомість клацає, як коліщатко у Windows: посилання відкривається в новій вкладці, вкладка закривається. Будь-де інде вмикається автопрокручування."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trên liên kết hoặc thẻ, thao tác sẽ bấm vào đó, giống nút cuộn trên Windows: liên kết mở trong thẻ mới, thẻ được đóng. Ở mọi chỗ khác, tự động cuộn sẽ bắt đầu."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在链接或标签页上，会像 Windows 上的滚轮点按一样改为点按：链接在新标签页中打开，标签页关闭。在其他位置则开始自动滚动。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在連結或標籤頁上，會像 Windows 上的滾輪按一下一樣改為按一下：連結在新標籤頁中打開，標籤頁關閉。在其他位置則開始自動捲動。"
+          }
+        }
+      }
+    },
     "About WheelClick": {
       "comment": "Menu item that opens the About window\nTitle of the About window",
       "localizations": {
@@ -5850,101 +5945,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "調整音量"
-          }
-        }
-      }
-    },
-    "All Gestures": {
-      "comment": "Plugins submenu: choice that makes every middle-click gesture enter autoscroll",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Alle Gesten"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todos los gestos"
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todos los gestos"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tous les gestes"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tutti i gesti"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "すべてのジェスチャ"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "모든 제스처"
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wszystkie gesty"
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todos os Gestos"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Все жесты"
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tüm Hareketler"
-          }
-        },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Усі жести"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tất cả cử chỉ"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "所有手势"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "所有手勢"
           }
         }
       }
@@ -9238,6 +9238,101 @@
           "stringUnit": {
             "state": "translated",
             "value": "和其他 App 或設定衝突"
+          }
+        }
+      }
+    },
+    "Click Links and Tabs": {
+      "comment": "Plugins submenu, under Autoscroll: switch that makes a trigger over a link or a tab click it (open the link, close the tab) instead of starting autoscroll",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Links und Tabs anklicken"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clic en enlaces y pestañas"
+          }
+        },
+        "es-419": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clic en enlaces y pestañas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clic sur liens et onglets"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clic su link e schede"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リンクとタブではクリック"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "링크와 탭에서는 클릭"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kliknięcie linków i kart"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clique em Links e Abas"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нажатие на ссылки и вкладки"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bağlantılara ve Sekmelere Tıklama"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Клацання посилань і вкладок"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bấm vào liên kết và thẻ"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点按链接和标签页"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按一下連結和標籤頁"
           }
         }
       }
@@ -13512,101 +13607,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "WheelClick 的所有偏好設定都將回復預設值。使用統計資料會保留，「登入時打開」維持不變。"
-          }
-        }
-      }
-    },
-    "Every middle-click gesture enters a Windows-style scroll mode instead of clicking.": {
-      "comment": "First paragraph of the hover card for the 'all gestures' choice under Plugins > Autoscroll",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Jede Mittelklick-Geste startet statt eines Klicks einen Scrollmodus wie unter Windows."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todos los gestos de clic central entran en un modo de desplazamiento al estilo de Windows en lugar de hacer clic."
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todos los gestos de clic central entran en un modo de desplazamiento al estilo de Windows en lugar de hacer clic."
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chaque geste de clic central passe en mode de défilement façon Windows au lieu de cliquer."
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ogni gesto di clic centrale attiva una modalità di scorrimento in stile Windows invece di fare clic."
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "すべての中クリックジェスチャが、クリックの代わりにWindows風のスクロールモードに入ります。"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "모든 가운데 클릭 제스처가 클릭 대신 Windows 방식의 스크롤 모드로 들어갑니다."
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Każdy gest środkowego kliknięcia włącza tryb przewijania w stylu Windows zamiast klikać."
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todo gesto de clique central entra em um modo de rolagem ao estilo do Windows em vez de clicar."
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Каждый жест среднего клика включает режим прокрутки, как в Windows, вместо клика."
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Her orta tıklama hareketi, tıklamak yerine Windows tarzı kaydırma moduna girer."
-          }
-        },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Кожен жест середнього клацання вмикає прокручування в стилі Windows замість клацання."
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mọi cử chỉ bấm chuột giữa sẽ vào chế độ cuộn kiểu Windows thay vì bấm."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "每个中键手势都将进入 Windows 风格的滚动模式，而不是点按。"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "每個中鍵手勢都會進入 Windows 風格的捲動模式，而不是點按。"
           }
         }
       }
@@ -23693,7 +23693,7 @@
       }
     },
     "Off": {
-      "comment": "Plugins submenu: choice that turns autoscroll off (no gesture enters it)\nPlugins submenu: choice that turns the three-finger vertical swipe off",
+      "comment": "Plugins submenu: choice that turns the three-finger vertical swipe off",
       "localizations": {
         "de": {
           "stringUnit": {
@@ -23783,101 +23783,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "關閉"
-          }
-        }
-      }
-    },
-    "Off. Pick a gesture to turn it into a Windows-style scroll mode.": {
-      "comment": "Hover card of the Off choice under Plugins > Autoscroll",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aus. Wähle eine Geste, die zum Scrollmodus wie unter Windows werden soll."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Desactivado. Elige un gesto para convertirlo en un modo de desplazamiento al estilo de Windows."
-          }
-        },
-        "es-419": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Desactivado. Elige un gesto para convertirlo en un modo de desplazamiento al estilo de Windows."
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Désactivé. Choisissez un geste pour en faire un mode de défilement façon Windows."
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Disattivato. Scegli un gesto per trasformarlo in una modalità di scorrimento in stile Windows."
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "オフ。ジェスチャを選ぶと、Windows風のスクロールモードになります。"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "꺼져 있습니다. Windows 방식의 스크롤 모드로 바꿀 제스처를 선택하십시오."
-          }
-        },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wyłączone. Wybierz gest, który ma włączać tryb przewijania w stylu Windows."
-          }
-        },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Desativado. Escolha um gesto para transformá-lo em um modo de rolagem ao estilo do Windows."
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Выключено. Выберите жест, который станет режимом прокрутки, как в Windows."
-          }
-        },
-        "tr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kapalı. Windows tarzı kaydırma moduna dönüştürmek için bir hareket seçin."
-          }
-        },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Вимкнено. Виберіть жест, щоб перетворити його на прокручування в стилі Windows."
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Đang tắt. Chọn một cử chỉ để biến nó thành chế độ cuộn kiểu Windows."
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "已关闭。选择一个手势，让它进入 Windows 风格的滚动模式。"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "已關閉。選擇一個手勢，讓它進入 Windows 風格的捲動模式。"
           }
         }
       }
